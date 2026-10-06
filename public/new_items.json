@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-10-07T01:02:48.986722+09:00",
+  "total": 7,
+  "items": [
+    {
+      "publisher": "foster music (フォスターミュージック)",
+      "publisher_id": "foster",
+      "title": "新作アンサンブル譜（サンプル）",
+      "url": "https://www.fostermusic.jp/products/detail/11907",
+      "published_at": "",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "listing"
+    },
+    {
+      "publisher": "BRAIN (ブレーン)",
+      "publisher_id": "brain",
+      "title": "第69回東北吹奏楽コンクール 公式プログラム",
+      "url": "https://www.brain-shop.net/shop/g/gPG-THB26/",
+      "published_at": "",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "listing"
+    },
+    {
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "パッヘルベルのカノン（2026年編曲）",
+      "url": "https://www.music8.com/products/detail211802.php",
+      "published_at": "",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "listing"
+    },
+    {
+      "publisher": "マエストロ (Maestro)",
+      "publisher_id": "maestro",
+      "title": "いのちの輝き（リコーダー四重奏）",
+      "url": "https://maestro-muse.com/?pid=193801569",
+      "published_at": "",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "feed"
+    },
+    {
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "星屑の島〜ウィンドアンサンブルのための小組曲〜",
+      "url": "https://goldenheartspublications.com/?pid=193586717",
+      "published_at": "",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "feed"
+    },
+    {
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "F・L・Y〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsl-00302",
+      "published_at": "2026-10-02T00:00:00+09:00",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "feed"
+    },
+    {
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "津軽海峡・冬景色〔Grade 2（小編成）〕",
+      "url": "https://winds-score.com/products/sbl-00156",
+      "published_at": "2026-10-02T00:00:00+09:00",
+      "first_seen": "2026-10-07T01:02:48.964261+09:00",
+      "method": "feed"
+    }
+  ]
+}

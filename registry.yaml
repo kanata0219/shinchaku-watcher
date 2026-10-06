@@ -1,0 +1,278 @@
+# =====================================================================
+# registry.yaml — 監視対象サイト一覧(1サイト = 1エントリ)
+#
+# 添付「出版社.xlsx」の41社を調査して登録しました。
+#   enabled: true  … 取得方式を確認済み。そのまま動きます
+#   enabled: false … 自動取得の入口が確認できなかった社。下の「保留中の社」
+#                    を参照し、新着ページURL等が分かり次第 true にして設定を足す
+#
+# method は「頑丈な順」に3種:
+#   feed    … RSS/Atom。url にフィードURLを書くだけ。最も頑丈
+#             (Shopify: /collections/<名前>.atom、Shop-Pro/カラーミー: ?mode=atom、
+#              おちゃのこネット: /rss/rss.php、WordPress: /feed/)
+#   listing … 新着ページのHTMLから、商品リンクの正規表現で抽出
+#             url=新着ページ, item_link_pattern=商品URLにマッチする正規表現
+#   hash    … ページ主要部のハッシュ差分で「変化した」ことだけ検知(最終手段)
+#
+# サイトを増減するときはこのファイルだけ編集します。コードは変えません。
+# =====================================================================
+
+defaults:
+  user_agent: "shinchaku-watcher/0.1 (band sheet-music new-arrivals monitor)"
+  obey_robots: true
+  rate_limit_sec: 3
+  max_items: 50
+
+sites:
+
+  # ========== フィード層(最も頑丈) ==========
+
+  # Shopify → 新着コレクションの Atom(実地確認済み)
+  - id: winds-score
+    name: Winds Score (ウィンズスコア)
+    method: feed
+    url: https://winds-score.com/collections/winds-new-items.atom
+
+  # Shopify → 全商品Atom。※「新着」コレクションのatomが分かれば差し替え推奨
+  - id: rocket-music
+    name: ROCKET MUSIC (ロケットミュージック)
+    method: feed
+    url: https://www.gakufu.co.jp/collections/all.atom
+
+  # Shop-Pro / カラーミー系 → ?mode=atom でフィードが取れる
+  - id: mediate-works
+    name: メディエイトワークス
+    method: feed
+    url: https://m8w-music.com/?mode=atom
+  - id: cafua
+    name: CAFUA RECORDS
+    method: feed
+    url: https://cafua.shop/?mode=atom
+  - id: golden-hearts
+    name: Golden Hearts Publications
+    method: feed
+    url: https://goldenheartspublications.com/?mode=atom
+  - id: maestro
+    name: マエストロ (Maestro)
+    method: feed
+    url: https://maestro-muse.com/?mode=atom
+  - id: music-bells
+    name: ミュージック・ベルズ
+    method: feed
+    url: https://music-bells.com/?mode=atom
+  - id: trans-asia
+    name: Trans Asia Music
+    method: feed
+    url: http://shop.transasia.jp/?mode=atom
+
+  # おちゃのこネット → /rss/rss.php
+  - id: seele
+    name: ゼーレ弦楽器工房
+    method: feed
+    url: https://seele.ocnk.net/rss/rss.php
+
+  # WordPress → /feed/(新譜情報を記事として配信している社)
+  - id: teeda
+    name: ティーダ出版
+    method: feed
+    url: https://teeda-japan.com/teeda_publishing/feed/
+  - id: fornax
+    name: 東京音楽制作 (FORNAX)
+    method: feed
+    url: https://fornax.jp/feed/
+  - id: stone-music
+    name: Stone Music
+    method: feed
+    url: https://www.stonemusic.jp/feed/
+  - id: ymd
+    name: YMD MUSIC
+    method: feed
+    url: https://ymdmusic.jp/feed/
+  - id: accord
+    name: アコード出版
+    method: feed
+    url: https://www.accord-publishing.jp/feed/
+
+  # ========== 一覧スクレイピング層(新着ページ + 商品リンクの正規表現) ==========
+
+  # 独自EC。商品URL例 /products/detail211802.php(実地確認済み)
+  - id: music8
+    name: music8 (ミュージックエイト)
+    method: listing
+    url: https://www.music8.com/new_release.php
+    item_link_pattern: '/products/detail\d+\.php'
+
+  # 独自EC(.NET)。商品URL例 /shop/g/gPG-THB26/(実地確認済み)
+  - id: brain
+    name: BRAIN (ブレーン)
+    method: listing
+    url: https://www.brain-shop.net/shop/e/enew/
+    item_link_pattern: '/shop/g/g[\w\-]+/?$'
+
+  # EC-CUBE。商品URL例 /products/detail/11907。トップに「新着商品」
+  - id: foster
+    name: foster music (フォスターミュージック)
+    method: listing
+    url: https://www.fostermusic.jp/
+    item_link_pattern: '/products/detail/\d+'
+
+  # 独自CMS。新着ページ /product/new_score/、商品URL detail.php?id=NNN
+  - id: ongaku-no-tomo
+    name: 音楽之友社
+    method: listing
+    url: https://www.ongakunotomo.co.jp/product/new_score/
+    item_link_pattern: 'detail\.php\?id=\d+'
+
+  # 独自EC。トップに「今月の新着楽譜」。商品URL /item/detail/NNN/
+  - id: kawai
+    name: カワイ出版
+    method: listing
+    url: https://www.editionkawai.jp/
+    item_link_pattern: '/item/detail/\d+'
+
+  # 新刊一覧 publishing/products/。商品URL(shop) /item/detail/NNN/
+  - id: zen-on
+    name: 全音楽譜出版社
+    method: listing
+    url: https://www.zen-on.co.jp/publishing/products/
+    item_link_pattern: '/item/detail/\d+'
+
+  # MakeShop。新着一覧 /new/、商品URL /view/item/NNN
+  - id: hustlecopy
+    name: 東京ハッスルコピー
+    method: listing
+    url: https://www.hustlecopy-store.com/new/index.html?mode=list
+    item_link_pattern: '/view/item/\d+'
+
+  # MakeShop。商品URL /shopdetail/NNN/(吹奏楽・アンサンブル譜)
+  - id: asks-winds
+    name: ASKS Winds
+    method: listing
+    url: https://asks.shop/
+    item_link_pattern: '/shopdetail/\d+'
+
+  # MakeShop。商品URL /shopdetail/NNN/(クラシックCD中心)
+  - id: octavia
+    name: オクタヴィア・レコード
+    method: listing
+    url: https://octavia-shop.com/
+    item_link_pattern: '/shopdetail/\d+'
+
+  # 大型モール内の自社ページ。商品URL search.php?order_no=NNN
+  - id: bell-music
+    name: ベル・ミュージック・プレス
+    method: listing
+    url: https://www.musicstore.jp/shop/bmp/index.php
+    item_link_pattern: 'order_no=\d+'
+
+  # Jimdo。トップの新着情報に商品リンク nwoNNN が並ぶ
+  - id: nexus
+    name: ネクサス音楽出版
+    method: listing
+    url: https://www.nexuss.net/
+    item_link_pattern: 'nwo\d+'
+
+  # 独自EC(※2023年以降 更新が少なめ)。商品URL /item/NNN.html
+  - id: sonicarts
+    name: ソニックアーツ
+    method: listing
+    url: https://www.sonicarts.jp/news.html
+    item_link_pattern: '/item/\d+\.html'
+
+  # ショット・ミュージック(shop.schottjapan.com)。商品URL /products/sjNNN
+  # ※新着ページの特定が甘いので、まず動かして取得件数を見て調整してください
+  - id: schott
+    name: ショット・ミュージック
+    method: listing
+    url: https://shop.schottjapan.com/
+    item_link_pattern: '/products/sj\w+'
+
+  # 独自CMS。商品リンクの規則が特殊なため、まずは差分検知で運用
+  - id: doremi
+    name: ドレミ音楽出版社
+    method: hash
+    url: https://www.doremi.co.jp/publics/index/1
+    content_selector: "#main"
+
+  # ========== 保留中(自動取得の入口が未確認。下記を埋めて enabled:true に) ==========
+  # 調べ方は README「新しいサイトの調べ方」を参照。URL/パターンが分かれば
+  # 上のどれかの層に移してください。
+
+  - id: also
+    name: アルソ出版
+    enabled: false
+    url: https://www.alsoj.net/store/index.html
+    # TODO: 新着ページURLと商品リンクのパターンを確認(雑誌 THE FLUTE/THE SAX 等)
+
+  - id: ito-music
+    name: イトーミュージック
+    enabled: false
+    url: https://www.itomusic.com/jpn/
+    # TODO: 作曲家ポータル型。販売ページ(/catalog 等)の商品URL規則を確認
+
+  - id: wind-art
+    name: ウインドアート出版
+    enabled: false
+    url: https://www.wind-art.com/
+    # TODO: フレーム構成の旧型サイト。新着ページ(フレーム内)を特定
+
+  - id: wind-gallery
+    name: ウインドギャラリー
+    enabled: false
+    url: http://www.wind-gallery.co.jp/
+    # TODO: 取得時にSSL/接続エラー。URL(https化含む)の確認が必要
+
+  - id: superkids
+    name: スーパーキッズレコード
+    enabled: false
+    url: https://www.superkids.co.jp/news.html
+    # TODO: 販売は別ドメイン(zoorasianbrass.shop)。そちらの商品URL規則を確認
+
+  - id: sumiya-goody
+    name: すみやグッディ
+    enabled: false
+    url: https://sumiya-goody.co.jp/score/
+    # TODO: 楽器店系。吹奏楽譜の新着に該当する一覧があるか確認
+
+  - id: takayama
+    name: 高山直也音楽事務所
+    enabled: false
+    url: http://www.bekkoame.ne.jp/~alpmusic/
+    # TODO: 取得時に接続タイムアウト。現行URLを確認
+
+  - id: dolce
+    name: ドルチェ楽器
+    enabled: false
+    url: https://www.dolce.co.jp/lineup/
+    # TODO: 主に楽器販売。楽譜の新着があるか確認(無ければ対象外でも可)
+
+  - id: naito
+    name: Naito Music
+    enabled: false
+    url: http://naitomusic.net/index.html
+    # TODO: 取得時に接続タイムアウト。現行URL/新着ページを確認
+
+  - id: hoshina
+    name: Hoshina Music Office
+    enabled: false
+    url: https://store.hoshina-music.com/
+    # TODO: WooCommerce。サイト工事中の表示あり。整備後に /shop/ 等を設定
+
+  - id: yamaha-meh
+    name: ヤマハミュージックエンタテインメントホールディングス
+    enabled: false
+    url: https://www.yamaha-meh.co.jp/business/score/
+    # TODO: 持株会社サイト。新譜は「ぷりんと楽譜」等 別サービス側の確認が必要
+
+  - id: write-staff
+    name: WRITE STAFF
+    enabled: false
+    url: https://www.writestaff.co.jp/
+    # TODO: 制作会社。自社販売は無く他社(全音等)で流通。監視対象の是非を検討
+
+  - id: atelier-m
+    name: アトリエ・エム
+    enabled: false
+    url: https://www.atelierm.net/catalog
+    # TODO: 独自サイト。商品URL例 /catalog/show/tm0097s。新着順ページがあれば
+    #       listing (item_link_pattern: '/catalog/show/[\w]+') で有効化可

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+<title>新着楽譜ダッシュボード</title>
+<style>
+:root {
+  --green: #1f6b4a; --green-dark: #12402d;
+  --bg: #f6f8f6; --card: #ffffff; --text: #1a2420;
+  --muted: #5d6b63; --border: #d9e2dc; --warn-bg: #fff4e5; --warn: #9a5b00;
+  --bad-bg: #fde8e8; --bad: #9b1c1c; --ok: #1f6b4a;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1613; --card: #16211c; --text: #e7efe9;
+    --muted: #9fb0a7; --border: #26362e; --warn-bg: #3a2c12; --warn: #ffcf7a;
+    --bad-bg: #3a1a1a; --bad: #ff9b9b; --ok: #6fd3a2; --green: #2f9c6e;
+  }
+}
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+  font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN",
+  "Noto Sans JP", Meiryo, sans-serif; line-height:1.6; }
+header { background:var(--green); color:#fff; padding:20px 16px; }
+header .wrap, main { max-width: 980px; margin:0 auto; }
+main { padding:16px; }
+h1 { margin:0; font-size:1.3rem; }
+.sub { opacity:.85; font-size:.85rem; margin-top:4px; }
+.cards { display:flex; gap:12px; flex-wrap:wrap; margin:16px 0; }
+.stat { background:var(--card); border:1px solid var(--border);
+  border-radius:12px; padding:14px 18px; flex:1; min-width:140px; }
+.stat b { display:block; font-size:1.6rem; color:var(--green); }
+.stat span { color:var(--muted); font-size:.8rem; }
+h2 { font-size:1.05rem; border-left:4px solid var(--green);
+  padding-left:10px; margin:28px 0 10px; }
+.pub { margin:18px 0; }
+.pub h3 { font-size:.95rem; margin:0 0 6px; color:var(--green-dark); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .pub h3 { color: var(--ok); }
+}
+ul.items { list-style:none; margin:0; padding:0;
+  background:var(--card); border:1px solid var(--border); border-radius:12px; }
+ul.items li { padding:10px 14px; border-top:1px solid var(--border); }
+ul.items li:first-child { border-top:none; }
+ul.items a { color:var(--text); text-decoration:none; font-weight:600; }
+ul.items a:hover { text-decoration:underline; color:var(--green); }
+.meta { color:var(--muted); font-size:.78rem; margin-top:2px; }
+.badge { display:inline-block; font-size:.7rem; padding:1px 7px;
+  border-radius:999px; border:1px solid var(--border); color:var(--muted); }
+table { width:100%; border-collapse:collapse; background:var(--card);
+  border:1px solid var(--border); border-radius:12px; overflow:hidden;
+  font-size:.85rem; }
+th, td { text-align:left; padding:8px 12px; border-top:1px solid var(--border); }
+th { background:var(--green); color:#fff; }
+.pill { padding:2px 8px; border-radius:999px; font-size:.75rem; font-weight:600; }
+.pill.ok { color:var(--ok); }
+.pill.warn { background:var(--warn-bg); color:var(--warn); }
+.pill.bad { background:var(--bad-bg); color:var(--bad); }
+footer { color:var(--muted); font-size:.78rem; text-align:center;
+  padding:24px 16px; }
+.empty { color:var(--muted); padding:14px; background:var(--card);
+  border:1px dashed var(--border); border-radius:12px; }
+</style></head>
+<body><header><div class="wrap">
+      <h1>新着楽譜ダッシュボード</h1>
+      <div class="sub">最終実行: 2026-10-07 01:02</div></div></header><main><div class="cards">
+      <div class="stat"><b>7</b><span>累計検知アイテム</span></div>
+      <div class="stat"><b>8</b><span>監視サイト数</span></div>
+      <div class="stat"><b>7</b><span>正常</span></div>
+      <div class="stat"><b>2</b><span>要確認</span></div>
+    </div><h2>サイト稼働状況</h2><table><tr><th>出版社</th><th>状態</th><th>取得件数</th><th>最終成功</th><th>備考</th></tr><tr><td>BRAIN (ブレーン)</td><td><span class="pill ok">正常</span></td><td>1</td><td>2026-10-07 01:02</td><td></td></tr><tr><td>Golden Hearts Publications</td><td><span class="pill ok">正常</span></td><td>1</td><td>2026-10-07 01:02</td><td></td></tr><tr><td>Winds Score (ウィンズスコア)</td><td><span class="pill ok">正常</span></td><td>2</td><td>2026-10-07 01:02</td><td></td></tr><tr><td>foster music (フォスターミュージック)</td><td><span class="pill ok">正常</span></td><td>1</td><td>2026-10-07 01:02</td><td></td></tr><tr><td>music8 (ミュージックエイト)</td><td><span class="pill ok">正常</span></td><td>1</td><td>2026-10-07 01:02</td><td></td></tr><tr><td>オクタヴィア・レコード</td><td><span class="pill bad">エラー</span></td><td>0</td><td></td><td>HTTP 503</td></tr><tr><td>ショット・ミュージック</td><td><span class="pill warn">要確認</span></td><td>0</td><td>2026-10-07 01:02</td><td>新着を1件も抽出できない(壊れ/セレクタ要確認)</td></tr><tr><td>マエストロ (Maestro)</td><td><span class="pill ok">正常</span></td><td>1</td><td>2026-10-07 01:02</td><td></td></tr></table><h2>新着一覧(直近)</h2><div class="pub"><h3>foster music (フォスターミュージック)（1）</h3><ul class="items"><li><a href="https://www.fostermusic.jp/products/detail/11907" target="_blank" rel="noopener">新作アンサンブル譜（サンプル）</a><div class="meta">検知 2026-10-07 · listing</div></li></ul></div><div class="pub"><h3>BRAIN (ブレーン)（1）</h3><ul class="items"><li><a href="https://www.brain-shop.net/shop/g/gPG-THB26/" target="_blank" rel="noopener">第69回東北吹奏楽コンクール 公式プログラム</a><div class="meta">検知 2026-10-07 · listing</div></li></ul></div><div class="pub"><h3>music8 (ミュージックエイト)（1）</h3><ul class="items"><li><a href="https://www.music8.com/products/detail211802.php" target="_blank" rel="noopener">パッヘルベルのカノン（2026年編曲）</a><div class="meta">検知 2026-10-07 · listing</div></li></ul></div><div class="pub"><h3>マエストロ (Maestro)（1）</h3><ul class="items"><li><a href="https://maestro-muse.com/?pid=193801569" target="_blank" rel="noopener">いのちの輝き（リコーダー四重奏）</a><div class="meta">検知 2026-10-07 · feed</div></li></ul></div><div class="pub"><h3>Golden Hearts Publications（1）</h3><ul class="items"><li><a href="https://goldenheartspublications.com/?pid=193586717" target="_blank" rel="noopener">星屑の島〜ウィンドアンサンブルのための小組曲〜</a><div class="meta">検知 2026-10-07 · feed</div></li></ul></div><div class="pub"><h3>Winds Score (ウィンズスコア)（2）</h3><ul class="items"><li><a href="https://winds-score.com/products/wsl-00302" target="_blank" rel="noopener">F・L・Y〔Grade 3〕</a><div class="meta">検知 2026-10-07 · 公開 2026-10-02 · feed</div></li><li><a href="https://winds-score.com/products/sbl-00156" target="_blank" rel="noopener">津軽海峡・冬景色〔Grade 2（小編成）〕</a><div class="meta">検知 2026-10-07 · 公開 2026-10-02 · feed</div></li></ul></div></main>
+<footer>shinchaku-watcher · 吹奏楽譜 新着監視システム</footer>
+</body></html>
