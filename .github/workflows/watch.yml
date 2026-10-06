@@ -1,0 +1,54 @@
+name: shinchaku-watch
+
+# 毎日 07:00 JST (= 22:00 UTC) に自動実行。手動実行も可能。
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+# 1回ずつ順番に(同時実行を防ぐ)
+concurrency:
+  group: shinchaku-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # 状態(data/)と出力(public/)をコミットするため
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 依存インストール
+        run: pip install -r requirements.txt
+
+      - name: 新着監視を実行
+        run: python -m watcher.run --config registry.yaml --data data --out public
+
+      - name: 状態と出力をコミット
+        run: |
+          git config user.name  "shinchaku-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data public
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "watch: $(date -u +%Y-%m-%dT%H:%MZ) の新着を更新"
+            git push
+          fi
+
+      # --- GitHub Pages で公開する場合は以下を有効化 ---
+      # - name: Pages 用にアップロード
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: public
+      # deploy ジョブを足すか、Settings > Pages のソースを
+      # 「GitHub Actions」または public/ を含むブランチに設定してください。
