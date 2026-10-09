@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-08T01:31:54.202284+00:00",
-  "total": 562,
+  "generated_at": "2026-10-09T01:40:57.707440+00:00",
+  "total": 568,
   "items": [
+    {
+      "key": "3cf064d4962ff91ae46a03bfb65446ef06acc91f",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "HOT LIMIT〔Grade 3(フレックスバンド)〕",
+      "url": "https://winds-score.com/products/wsbf-00073",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "845b652326e2479a5e2ba29fd7f8f8e86405f61f",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "HOT LIMIT(フレックス5(~8)重奏)",
+      "url": "https://winds-score.com/products/wsef-00053",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0259b7992e40d6814ad00d5d2bf759d951d70c8a",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "Yes! 東京〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsj-00182",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3be60fc567d7914a3f5daa631ad12ad55ec6abf4",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "Wherever you are〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsl-00305",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "d4bca1274a2bef01dcbbb80b1c4b7666f1bd3b58",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "それもいいね〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsl-00297",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "1dd3619328cb13e5e0242c70b22ddfd39521f349",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "Act-Show〔Grade 4〕",
+      "url": "https://winds-score.com/products/wsl-00306",
+      "published_at": "2026-10-09T00:00:00+09:00",
+      "first_seen": "2026-10-09T01:38:38.928869+00:00",
+      "method": "feed"
+    },
     {
       "key": "9fa1c4ad59ec8b97c06a55b9caa8c3446db4aec3",
       "publisher": "foster music (フォスターミュージック)",
@@ -5630,7 +5690,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-10-08T01:30:05.544662+00:00",
+      "last_ok": "2026-10-09T01:40:35.274757+00:00",
       "note": ""
     },
     {
@@ -5639,7 +5699,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-10-08T01:29:53.429105+00:00",
+      "last_ok": "2026-10-09T01:39:02.326401+00:00",
       "note": ""
     },
     {
@@ -5648,7 +5708,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:37.160951+00:00",
+      "last_ok": "2026-10-09T01:38:42.340751+00:00",
       "note": ""
     },
     {
@@ -5657,13 +5717,13 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:38.078882+00:00",
+      "last_ok": "2026-10-09T01:38:43.305934+00:00",
       "note": ""
     },
     {
       "publisher_id": "hoshina",
       "publisher": "Hoshina Music Office",
-      "last_error": "HTTPSConnectionPool(host='store.hoshina-music.com', port=443): Max retries exceeded with url: /shop/?orderby=date (Caused by ConnectTimeoutError(<HTTPSConnection(host='store.hoshina-music.com', port=443) at 0x7f47f9b71cd0>, 'Connection to store.hoshina-music.com timed out. (connect timeout=20)'))",
+      "last_error": "HTTP 404",
       "consecutive_empty": 0,
       "last_item_count": 0,
       "last_ok": null,
@@ -5673,9 +5733,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 3,
+      "consecutive_empty": 4,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:30:20.198329+00:00",
+      "last_ok": "2026-10-09T01:40:55.414009+00:00",
       "note": "変化なし"
     },
     {
@@ -5684,17 +5744,17 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-08T01:29:35.467793+00:00",
+      "last_ok": "2026-10-09T01:38:39.840623+00:00",
       "note": ""
     },
     {
       "publisher_id": "stone-music",
       "publisher": "Stone Music",
       "last_error": null,
-      "consecutive_empty": 1,
-      "last_item_count": 0,
-      "last_ok": "2026-10-08T01:29:48.445134+00:00",
-      "note": "フィードにエントリが無い(壊れの可能性)"
+      "consecutive_empty": 0,
+      "last_item_count": 5,
+      "last_ok": "2026-10-09T01:38:55.778044+00:00",
+      "note": ""
     },
     {
       "publisher_id": "trans-asia",
@@ -5702,7 +5762,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:40.889584+00:00",
+      "last_ok": "2026-10-09T01:38:47.296172+00:00",
       "note": ""
     },
     {
@@ -5711,7 +5771,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-08T01:29:34.655816+00:00",
+      "last_ok": "2026-10-09T01:38:38.931243+00:00",
       "note": ""
     },
     {
@@ -5720,7 +5780,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-08T01:29:50.139158+00:00",
+      "last_ok": "2026-10-09T01:38:57.764323+00:00",
       "note": ""
     },
     {
@@ -5729,7 +5789,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 19,
-      "last_ok": "2026-10-08T01:29:55.864260+00:00",
+      "last_ok": "2026-10-09T01:39:04.673336+00:00",
       "note": ""
     },
     {
@@ -5738,7 +5798,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-10-08T01:29:52.116721+00:00",
+      "last_ok": "2026-10-09T01:39:00.362723+00:00",
       "note": ""
     },
     {
@@ -5754,9 +5814,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 3,
+      "consecutive_empty": 4,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:31:54.197746+00:00",
+      "last_ok": "2026-10-09T01:40:57.699727+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -5765,7 +5825,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 46,
-      "last_ok": "2026-10-08T01:30:06.692024+00:00",
+      "last_ok": "2026-10-09T01:40:36.499890+00:00",
       "note": ""
     },
     {
@@ -5774,7 +5834,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-08T01:29:58.716887+00:00",
+      "last_ok": "2026-10-09T01:39:17.598092+00:00",
       "note": ""
     },
     {
@@ -5783,7 +5843,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-08T01:30:14.594654+00:00",
+      "last_ok": "2026-10-09T01:40:49.341364+00:00",
       "note": ""
     },
     {
@@ -5801,25 +5861,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-08T01:29:41.900738+00:00",
+      "last_ok": "2026-10-09T01:38:48.330442+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 4,
+      "consecutive_empty": 5,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:30:13.646814+00:00",
+      "last_ok": "2026-10-09T01:40:48.519129+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 4,
+      "consecutive_empty": 5,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:29:44.972414+00:00",
+      "last_ok": "2026-10-09T01:38:51.835085+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -5828,16 +5888,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-08T01:30:19.346957+00:00",
+      "last_ok": "2026-10-09T01:40:54.691106+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 4,
+      "consecutive_empty": 5,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:30:17.679837+00:00",
+      "last_ok": "2026-10-09T01:40:52.983202+00:00",
       "note": "変化なし"
     },
     {
@@ -5846,7 +5906,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-08T01:30:12.763206+00:00",
+      "last_ok": "2026-10-09T01:40:47.444739+00:00",
       "note": ""
     },
     {
@@ -5855,7 +5915,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-10-08T01:30:11.569089+00:00",
+      "last_ok": "2026-10-09T01:40:46.482186+00:00",
       "note": ""
     },
     {
@@ -5864,7 +5924,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:38.851783+00:00",
+      "last_ok": "2026-10-09T01:38:44.397447+00:00",
       "note": ""
     },
     {
@@ -5873,7 +5933,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:39.756710+00:00",
+      "last_ok": "2026-10-09T01:38:45.511751+00:00",
       "note": ""
     },
     {
@@ -5882,15 +5942,15 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-08T01:29:36.247258+00:00",
+      "last_ok": "2026-10-09T01:38:41.288057+00:00",
       "note": ""
     },
     {
       "publisher_id": "zen-on",
       "publisher": "全音楽譜出版社",
-      "last_error": null,
+      "last_error": "HTTPSConnectionPool(host='www.zen-on.co.jp', port=443): Read timed out. (read timeout=20)",
       "consecutive_empty": 0,
-      "last_item_count": 20,
+      "last_item_count": 0,
       "last_ok": "2026-10-08T01:30:02.674490+00:00",
       "note": ""
     },
@@ -5898,9 +5958,9 @@
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 4,
+      "consecutive_empty": 5,
       "last_item_count": 0,
-      "last_ok": "2026-10-08T01:30:04.332700+00:00",
+      "last_ok": "2026-10-09T01:40:33.894106+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -5909,7 +5969,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-08T01:29:47.233766+00:00",
+      "last_ok": "2026-10-09T01:38:53.710693+00:00",
       "note": ""
     },
     {
@@ -5918,14 +5978,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-10-08T01:29:56.827661+00:00",
+      "last_ok": "2026-10-09T01:39:05.707172+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-10-08T01:31:54.198775+00:00",
-    "sites_ok": 30,
-    "sites_failed": 3,
-    "new_count": 0
+    "finished_at": "2026-10-09T01:40:57.703926+00:00",
+    "sites_ok": 29,
+    "sites_failed": 4,
+    "new_count": 6
   }
 }
