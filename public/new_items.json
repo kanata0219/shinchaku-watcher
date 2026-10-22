@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-21T00:20:26.889968+00:00",
-  "total": 677,
+  "generated_at": "2026-10-22T00:22:23.394125+00:00",
+  "total": 681,
   "items": [
+    {
+      "key": "b5fde0fd21aa3ff186fae8ce217b3116cc507907",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "ブルックナー:交響曲第9番 下野竜也&名古屋フィル",
+      "url": "https://octavia-shop.com/shopdetail/000000001829",
+      "published_at": "",
+      "first_seen": "2026-10-22T00:22:04.159601+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "f31774c2147665bb14baa3b00e5ea2c6cd71b61c",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "マーラー:交響曲 第9番 太田弦&九響",
+      "url": "https://octavia-shop.com/shopdetail/000000001834",
+      "published_at": "",
+      "first_seen": "2026-10-22T00:22:04.159601+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "81bc2481b5c3f528f30fdddc360cd46e04cc95f8",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "シューベルト:交響曲 第7番「未完成」、第8番「ザ・グレイト」 小泉和裕&名古屋フィル",
+      "url": "https://octavia-shop.com/shopdetail/000000001846",
+      "published_at": "",
+      "first_seen": "2026-10-22T00:22:04.159601+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "01b5e53ddfeef8be5ea610cef3d4fde4a6d5c7bc",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "マーラー:交響曲 第9番 ノット&東響",
+      "url": "https://octavia-shop.com/shopdetail/000000001847",
+      "published_at": "",
+      "first_seen": "2026-10-22T00:22:04.159601+00:00",
+      "method": "listing"
+    },
     {
       "key": "07c4581936a838a502ca86f0f4fcc652fed927c4",
       "publisher": "Golden Hearts Publications",
@@ -6780,7 +6820,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-10-21T00:20:06.745462+00:00",
+      "last_ok": "2026-10-22T00:22:02.877365+00:00",
       "note": ""
     },
     {
@@ -6789,7 +6829,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-10-21T00:19:56.386295+00:00",
+      "last_ok": "2026-10-22T00:21:38.605166+00:00",
       "note": ""
     },
     {
@@ -6798,17 +6838,17 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:39.816599+00:00",
+      "last_ok": "2026-10-22T00:21:06.916488+00:00",
       "note": ""
     },
     {
       "publisher_id": "golden-hearts",
       "publisher": "Golden Hearts Publications",
       "last_error": null,
-      "consecutive_empty": 0,
-      "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:40.525409+00:00",
-      "note": ""
+      "consecutive_empty": 1,
+      "last_item_count": 0,
+      "last_ok": "2026-10-22T00:21:07.808414+00:00",
+      "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
       "publisher_id": "hoshina",
@@ -6823,9 +6863,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 16,
+      "consecutive_empty": 17,
       "last_item_count": 0,
-      "last_ok": "2026-10-21T00:20:24.746520+00:00",
+      "last_ok": "2026-10-22T00:22:20.846015+00:00",
       "note": "変化なし"
     },
     {
@@ -6834,7 +6874,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-21T00:19:37.663007+00:00",
+      "last_ok": "2026-10-22T00:21:03.739520+00:00",
       "note": ""
     },
     {
@@ -6843,7 +6883,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-21T00:19:50.997349+00:00",
+      "last_ok": "2026-10-22T00:21:32.300018+00:00",
       "note": ""
     },
     {
@@ -6852,7 +6892,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:43.473732+00:00",
+      "last_ok": "2026-10-22T00:21:12.031313+00:00",
       "note": ""
     },
     {
@@ -6861,7 +6901,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-21T00:19:36.812127+00:00",
+      "last_ok": "2026-10-22T00:21:02.595075+00:00",
       "note": ""
     },
     {
@@ -6870,7 +6910,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-21T00:19:53.066984+00:00",
+      "last_ok": "2026-10-22T00:21:34.649177+00:00",
       "note": ""
     },
     {
@@ -6879,7 +6919,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 19,
-      "last_ok": "2026-10-21T00:19:58.457258+00:00",
+      "last_ok": "2026-10-22T00:21:41.195455+00:00",
       "note": ""
     },
     {
@@ -6888,7 +6928,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-10-21T00:19:55.142526+00:00",
+      "last_ok": "2026-10-22T00:21:36.996873+00:00",
       "note": ""
     },
     {
@@ -6904,9 +6944,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 16,
+      "consecutive_empty": 17,
       "last_item_count": 0,
-      "last_ok": "2026-10-21T00:20:26.884410+00:00",
+      "last_ok": "2026-10-22T00:22:23.388762+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -6914,8 +6954,8 @@
       "publisher": "オクタヴィア・レコード",
       "last_error": null,
       "consecutive_empty": 0,
-      "last_item_count": 46,
-      "last_ok": "2026-10-21T00:20:07.803799+00:00",
+      "last_item_count": 45,
+      "last_ok": "2026-10-22T00:22:04.162451+00:00",
       "note": ""
     },
     {
@@ -6924,7 +6964,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-21T00:20:01.410154+00:00",
+      "last_ok": "2026-10-22T00:21:57.021861+00:00",
       "note": ""
     },
     {
@@ -6933,7 +6973,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-21T00:20:17.899637+00:00",
+      "last_ok": "2026-10-22T00:22:13.107023+00:00",
       "note": ""
     },
     {
@@ -6951,26 +6991,26 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-21T00:19:44.368930+00:00",
+      "last_ok": "2026-10-22T00:21:13.449978+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 17,
+      "consecutive_empty": 18,
       "last_item_count": 0,
-      "last_ok": "2026-10-21T00:20:17.177389+00:00",
+      "last_ok": "2026-10-22T00:22:12.672901+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
-      "last_error": null,
+      "last_error": "HTTP 502",
       "consecutive_empty": 17,
       "last_item_count": 0,
       "last_ok": "2026-10-21T00:19:46.775532+00:00",
-      "note": "フィードにエントリが無い(壊れの可能性)"
+      "note": ""
     },
     {
       "publisher_id": "dolce",
@@ -6978,16 +7018,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-21T00:20:23.942516+00:00",
+      "last_ok": "2026-10-22T00:22:19.862611+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 17,
+      "consecutive_empty": 18,
       "last_item_count": 0,
-      "last_ok": "2026-10-21T00:20:22.287161+00:00",
+      "last_ok": "2026-10-22T00:22:17.666265+00:00",
       "note": "変化なし"
     },
     {
@@ -6996,7 +7036,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-21T00:20:16.192347+00:00",
+      "last_ok": "2026-10-22T00:22:10.914750+00:00",
       "note": ""
     },
     {
@@ -7005,7 +7045,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-10-21T00:20:13.173366+00:00",
+      "last_ok": "2026-10-22T00:22:10.011874+00:00",
       "note": ""
     },
     {
@@ -7014,7 +7054,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:41.365000+00:00",
+      "last_ok": "2026-10-22T00:21:09.098432+00:00",
       "note": ""
     },
     {
@@ -7023,7 +7063,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:42.198916+00:00",
+      "last_ok": "2026-10-22T00:21:10.185271+00:00",
       "note": ""
     },
     {
@@ -7032,7 +7072,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-21T00:19:38.476185+00:00",
+      "last_ok": "2026-10-22T00:21:05.448263+00:00",
       "note": ""
     },
     {
@@ -7041,16 +7081,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 34,
-      "last_ok": "2026-10-21T00:20:04.015882+00:00",
+      "last_ok": "2026-10-22T00:21:59.048634+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 17,
+      "consecutive_empty": 18,
       "last_item_count": 0,
-      "last_ok": "2026-10-21T00:20:05.765420+00:00",
+      "last_ok": "2026-10-22T00:22:01.590208+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7059,23 +7099,23 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-21T00:19:48.259816+00:00",
+      "last_ok": "2026-10-22T00:21:30.327054+00:00",
       "note": ""
     },
     {
       "publisher_id": "ongaku-no-tomo",
       "publisher": "音楽之友社",
-      "last_error": null,
+      "last_error": "HTTPSConnectionPool(host='www.ongakunotomo.co.jp', port=443): Max retries exceeded with url: /product/new_score/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.ongakunotomo.co.jp', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
       "consecutive_empty": 0,
-      "last_item_count": 30,
+      "last_item_count": 0,
       "last_ok": "2026-10-21T00:19:59.393310+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-10-21T00:20:26.885707+00:00",
-    "sites_ok": 30,
-    "sites_failed": 3,
-    "new_count": 17
+    "finished_at": "2026-10-22T00:22:23.390117+00:00",
+    "sites_ok": 28,
+    "sites_failed": 5,
+    "new_count": 4
   }
 }
