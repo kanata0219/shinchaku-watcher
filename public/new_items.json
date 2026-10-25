@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-24T23:56:51.552919+00:00",
-  "total": 711,
+  "generated_at": "2026-10-25T23:43:37.724609+00:00",
+  "total": 715,
   "items": [
+    {
+      "key": "29e64d3126c6be1300717845e8d29bdf576104e0",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "信長貴富:「うたを うたう とき〔改訂版〕」女声合唱曲集",
+      "url": "https://www.editionkawai.jp/item/detail/94324/",
+      "published_at": "",
+      "first_seen": "2026-10-25T23:43:08.739640+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "61e880bf9fcaeac3791c2518793e28f72e9cdcd3",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "松下 耕:「信じる」混声合唱とピアノのための",
+      "url": "https://www.editionkawai.jp/item/detail/91236/",
+      "published_at": "",
+      "first_seen": "2026-10-25T23:43:08.739640+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "99648b53f18d7c4f591e754e9af14e27ad64cddb",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "信長貴富:「祈ってもいいだろうか」混声二部・同声二部",
+      "url": "https://www.editionkawai.jp/item/detail/92084/",
+      "published_at": "",
+      "first_seen": "2026-10-25T23:43:08.739640+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "e6ceb432d6918e667549fb52213920e73eb68d1c",
+      "publisher": "CAFUA RECORDS",
+      "publisher_id": "cafua",
+      "title": "【CD】CAFUAセレクション2027-2028/航空自衛隊航空中央音楽隊",
+      "url": "https://cafua.shop/?pid=194141821",
+      "published_at": "2026-10-25T19:02:35+09:00",
+      "first_seen": "2026-10-25T23:42:45.694775+00:00",
+      "method": "feed"
+    },
     {
       "key": "9f1a7eeb1d4d7b59f69ccf945e6b9dbf3baf37b2",
       "publisher": "ゼーレ弦楽器工房",
@@ -7120,7 +7160,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-10-24T23:56:29.288249+00:00",
+      "last_ok": "2026-10-25T23:43:14.729711+00:00",
       "note": ""
     },
     {
@@ -7129,7 +7169,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-10-24T23:56:20.157900+00:00",
+      "last_ok": "2026-10-25T23:43:05.207701+00:00",
       "note": ""
     },
     {
@@ -7138,7 +7178,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:55:56.666116+00:00",
+      "last_ok": "2026-10-25T23:42:45.696639+00:00",
       "note": ""
     },
     {
@@ -7147,7 +7187,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:55:57.689033+00:00",
+      "last_ok": "2026-10-25T23:42:46.619624+00:00",
       "note": ""
     },
     {
@@ -7163,9 +7203,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 20,
+      "consecutive_empty": 21,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:48.797507+00:00",
+      "last_ok": "2026-10-25T23:43:35.105118+00:00",
       "note": "変化なし"
     },
     {
@@ -7174,17 +7214,17 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-24T23:55:54.336307+00:00",
+      "last_ok": "2026-10-25T23:42:43.327067+00:00",
       "note": ""
     },
     {
       "publisher_id": "stone-music",
       "publisher": "Stone Music",
       "last_error": null,
-      "consecutive_empty": 0,
-      "last_item_count": 5,
-      "last_ok": "2026-10-24T23:56:12.922140+00:00",
-      "note": ""
+      "consecutive_empty": 1,
+      "last_item_count": 0,
+      "last_ok": "2026-10-25T23:42:58.677702+00:00",
+      "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
       "publisher_id": "trans-asia",
@@ -7192,7 +7232,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:56:02.161867+00:00",
+      "last_ok": "2026-10-25T23:42:50.822444+00:00",
       "note": ""
     },
     {
@@ -7201,7 +7241,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-24T23:55:53.285934+00:00",
+      "last_ok": "2026-10-25T23:42:42.532627+00:00",
       "note": ""
     },
     {
@@ -7210,7 +7250,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-24T23:56:15.464829+00:00",
+      "last_ok": "2026-10-25T23:43:00.860685+00:00",
       "note": ""
     },
     {
@@ -7228,7 +7268,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-10-24T23:56:18.321263+00:00",
+      "last_ok": "2026-10-25T23:43:03.405578+00:00",
       "note": ""
     },
     {
@@ -7244,9 +7284,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 20,
+      "consecutive_empty": 21,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:51.546024+00:00",
+      "last_ok": "2026-10-25T23:43:37.719329+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7255,7 +7295,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 49,
-      "last_ok": "2026-10-24T23:56:30.619457+00:00",
+      "last_ok": "2026-10-25T23:43:15.816798+00:00",
       "note": ""
     },
     {
@@ -7264,7 +7304,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-24T23:56:24.206462+00:00",
+      "last_ok": "2026-10-25T23:43:08.742145+00:00",
       "note": ""
     },
     {
@@ -7273,7 +7313,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-24T23:56:40.317449+00:00",
+      "last_ok": "2026-10-25T23:43:28.010128+00:00",
       "note": ""
     },
     {
@@ -7291,25 +7331,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-24T23:56:03.582040+00:00",
+      "last_ok": "2026-10-25T23:42:51.935618+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 21,
+      "consecutive_empty": 22,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:39.749501+00:00",
+      "last_ok": "2026-10-25T23:43:27.530288+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 20,
+      "consecutive_empty": 21,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:07.000469+00:00",
+      "last_ok": "2026-10-25T23:42:55.437134+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -7318,16 +7358,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-24T23:56:47.969868+00:00",
+      "last_ok": "2026-10-25T23:43:33.732191+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 21,
+      "consecutive_empty": 22,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:45.805352+00:00",
+      "last_ok": "2026-10-25T23:43:32.154509+00:00",
       "note": "変化なし"
     },
     {
@@ -7336,7 +7376,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-24T23:56:38.403303+00:00",
+      "last_ok": "2026-10-25T23:43:26.422470+00:00",
       "note": ""
     },
     {
@@ -7345,7 +7385,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-10-24T23:56:37.533279+00:00",
+      "last_ok": "2026-10-25T23:43:25.448956+00:00",
       "note": ""
     },
     {
@@ -7354,7 +7394,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:55:59.095783+00:00",
+      "last_ok": "2026-10-25T23:42:47.840115+00:00",
       "note": ""
     },
     {
@@ -7363,7 +7403,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:56:00.244046+00:00",
+      "last_ok": "2026-10-25T23:42:48.952558+00:00",
       "note": ""
     },
     {
@@ -7372,7 +7412,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-24T23:55:55.497843+00:00",
+      "last_ok": "2026-10-25T23:42:44.455011+00:00",
       "note": ""
     },
     {
@@ -7381,16 +7421,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 34,
-      "last_ok": "2026-10-24T23:56:25.994593+00:00",
+      "last_ok": "2026-10-25T23:43:11.159501+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 21,
+      "consecutive_empty": 22,
       "last_item_count": 0,
-      "last_ok": "2026-10-24T23:56:27.983540+00:00",
+      "last_ok": "2026-10-25T23:43:13.320980+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7399,7 +7439,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-24T23:56:09.088125+00:00",
+      "last_ok": "2026-10-25T23:42:57.291046+00:00",
       "note": ""
     },
     {
@@ -7408,12 +7448,12 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-10-24T23:56:22.309925+00:00",
+      "last_ok": "2026-10-25T23:43:07.000817+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-10-24T23:56:51.547103+00:00",
+    "finished_at": "2026-10-25T23:43:37.720426+00:00",
     "sites_ok": 29,
     "sites_failed": 4,
     "new_count": 4
