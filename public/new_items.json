@@ -1,7 +1,177 @@
 {
-  "generated_at": "2026-10-28T00:54:03.533642+00:00",
-  "total": 750,
+  "generated_at": "2026-10-29T01:29:46.622822+00:00",
+  "total": 767,
   "items": [
+    {
+      "key": "e61d272bb92b9134d3a105f1ef014b17be25c8ce",
+      "publisher": "ゼーレ弦楽器工房",
+      "publisher_id": "seele",
+      "title": "Claudio Bacci クラウディオ・バッチ",
+      "url": "https://seele.ocnk.net/product/2658",
+      "published_at": "2026-10-28T17:11:43+09:00",
+      "first_seen": "2026-10-29T01:28:53.677485+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "9cbec60c7be88e3da88dfc0a94af9fa7e7bc9150",
+      "publisher": "マエストロ (Maestro)",
+      "publisher_id": "maestro",
+      "title": "[電子オルガン演奏用編曲許諾] 赤い森〜1986.4.26 チェルノブイリ原子力発電所事故による〜/The Red Forest/ 林大地(Daichi Hayashi)",
+      "url": "https://maestro-muse.com/?pid=194212119",
+      "published_at": "2026-10-29T09:49:39+09:00",
+      "first_seen": "2026-10-29T01:28:49.072285+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "f73e47c1c065d7cc130a868e93f46f9d4b49ca35",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) グリーン・ドラゴン序曲 / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196651",
+      "published_at": "2026-10-28T10:56:07+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "948733328d1aa04d5c57adde6e19aecb514d9f3d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 金管六重奏と吹奏楽のための協奏曲 / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196652",
+      "published_at": "2026-10-28T10:56:07+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "bedae336b5aff35358cf3309a6dccd704fdf2ffe",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 金管六重奏と吹奏楽のための協奏曲 / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196653",
+      "published_at": "2026-10-28T10:56:08+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "aae8594230e1731812fa42c863381e060ad24253",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) クレイジー / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196654",
+      "published_at": "2026-10-28T10:56:08+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "a6c2431a3a5ce03d48b721085df93251c13c5c4f",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) クレイジー / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196655",
+      "published_at": "2026-10-28T10:56:08+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "16e9cbf87abf61ccebbb1457f7b484045933aebe",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジュラシック・コースト / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196657",
+      "published_at": "2026-10-28T10:56:09+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "d535fc10a987f12245f29aa2272315bf4d036113",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジュラシック・コースト / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196658",
+      "published_at": "2026-10-28T10:56:09+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "a87ec9b89e9e3fbe34a57fb2d5668df98aa56c6f",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ホワイト・ドラゴン序曲 / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196659",
+      "published_at": "2026-10-28T10:56:10+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "7e8a77211ac95fda9dc124568c5484a5441e1b3f",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ホワイト・ドラゴン序曲 / 作曲:デリック・ブルジョワ(吹奏楽)",
+      "url": "https://goldenheartspublications.com/?pid=194196660",
+      "published_at": "2026-10-28T10:56:10+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3ca9d81730acb87be5b8950e7a6c0b3a3fb1f2f5",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 金管五重奏曲第2番 / 作曲:デリック・ブルジョワ(金管5重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194196661",
+      "published_at": "2026-10-28T10:56:10+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "7afb6042a183ffc593eef96167ff422bb486fcb3",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 三重奏曲 / 作曲:デリック・ブルジョワ(トランペット、トロンボーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194196662",
+      "published_at": "2026-10-28T10:56:11+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "aeeb6b6c2af09e8a41922efc44e4444d220c22c6",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ウィリアムとメアリー組曲 / 作曲:デリック・ブルジョワ(金管10重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194196663",
+      "published_at": "2026-10-28T10:56:11+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "347170a8df0706f114eeb2a55fff9039edeb7014",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) コントラバス・ソナタ 作品100 / 作曲:デリック・ブルジョワ(コントラバス&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194196664",
+      "published_at": "2026-10-28T10:56:11+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "2522fd11d364d3a3bf7688eae1c7d4a44c3336bb",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜】<br>序曲:人生の喜び <br>作曲:ロブ・ウィッフィン",
+      "url": "https://goldenheartspublications.com/?pid=194211865",
+      "published_at": "2026-10-29T09:27:53+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "60356da17778eee5dacdc2f971c04602fc77d9c4",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜】<br>エナジー・イン・モーション <br>作曲:ロブ・ウィッフィン",
+      "url": "https://goldenheartspublications.com/?pid=194211975",
+      "published_at": "2026-10-29T09:31:34+09:00",
+      "first_seen": "2026-10-29T01:28:47.851777+00:00",
+      "method": "feed"
+    },
     {
       "key": "e567da01a3cddf4d0b50ad608dc92766f8d3cca6",
       "publisher": "オクタヴィア・レコード",
@@ -7510,7 +7680,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-10-28T00:53:42.584731+00:00",
+      "last_ok": "2026-10-29T01:29:15.686582+00:00",
       "note": ""
     },
     {
@@ -7519,7 +7689,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-10-28T00:53:33.698084+00:00",
+      "last_ok": "2026-10-29T01:29:06.986360+00:00",
       "note": ""
     },
     {
@@ -7528,7 +7698,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:15.254819+00:00",
+      "last_ok": "2026-10-29T01:28:46.939084+00:00",
       "note": ""
     },
     {
@@ -7537,7 +7707,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:16.114449+00:00",
+      "last_ok": "2026-10-29T01:28:47.855002+00:00",
       "note": ""
     },
     {
@@ -7553,9 +7723,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 23,
+      "consecutive_empty": 24,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:54:00.477910+00:00",
+      "last_ok": "2026-10-29T01:29:42.948327+00:00",
       "note": "変化なし"
     },
     {
@@ -7564,7 +7734,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-28T00:53:12.587263+00:00",
+      "last_ok": "2026-10-29T01:28:44.724444+00:00",
       "note": ""
     },
     {
@@ -7573,7 +7743,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-28T00:53:27.858934+00:00",
+      "last_ok": "2026-10-29T01:29:00.933133+00:00",
       "note": ""
     },
     {
@@ -7582,7 +7752,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:19.910475+00:00",
+      "last_ok": "2026-10-29T01:28:52.092183+00:00",
       "note": ""
     },
     {
@@ -7591,7 +7761,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-10-28T00:53:11.587273+00:00",
+      "last_ok": "2026-10-29T01:28:43.585193+00:00",
       "note": ""
     },
     {
@@ -7600,16 +7770,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-28T00:53:30.029434+00:00",
+      "last_ok": "2026-10-29T01:29:03.110582+00:00",
       "note": ""
     },
     {
       "publisher_id": "foster",
       "publisher": "foster music (フォスターミュージック)",
       "last_error": null,
-      "consecutive_empty": 2,
+      "consecutive_empty": 3,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:53:34.340014+00:00",
+      "last_ok": "2026-10-29T01:29:07.657259+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7618,7 +7788,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-10-28T00:53:32.403355+00:00",
+      "last_ok": "2026-10-29T01:29:05.595352+00:00",
       "note": ""
     },
     {
@@ -7634,9 +7804,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 23,
+      "consecutive_empty": 24,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:54:03.528315+00:00",
+      "last_ok": "2026-10-29T01:29:46.614394+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7645,7 +7815,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 49,
-      "last_ok": "2026-10-28T00:53:44.154949+00:00",
+      "last_ok": "2026-10-29T01:29:16.982791+00:00",
       "note": ""
     },
     {
@@ -7654,7 +7824,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-28T00:53:37.280038+00:00",
+      "last_ok": "2026-10-29T01:29:10.626055+00:00",
       "note": ""
     },
     {
@@ -7663,7 +7833,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-28T00:53:53.576341+00:00",
+      "last_ok": "2026-10-29T01:29:35.692778+00:00",
       "note": ""
     },
     {
@@ -7681,25 +7851,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-28T00:53:20.951610+00:00",
+      "last_ok": "2026-10-29T01:28:53.680230+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 24,
+      "consecutive_empty": 25,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:53:52.868088+00:00",
+      "last_ok": "2026-10-29T01:29:35.164467+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 23,
+      "consecutive_empty": 24,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:53:23.505393+00:00",
+      "last_ok": "2026-10-29T01:28:56.328466+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -7708,16 +7878,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-10-28T00:53:59.463535+00:00",
+      "last_ok": "2026-10-29T01:29:41.588026+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 24,
+      "consecutive_empty": 25,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:53:57.443391+00:00",
+      "last_ok": "2026-10-29T01:29:39.492044+00:00",
       "note": "変化なし"
     },
     {
@@ -7726,7 +7896,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-10-28T00:53:51.986800+00:00",
+      "last_ok": "2026-10-29T01:29:33.978642+00:00",
       "note": ""
     },
     {
@@ -7735,7 +7905,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-10-28T00:53:50.962578+00:00",
+      "last_ok": "2026-10-29T01:29:32.943944+00:00",
       "note": ""
     },
     {
@@ -7744,7 +7914,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:17.278580+00:00",
+      "last_ok": "2026-10-29T01:28:49.077698+00:00",
       "note": ""
     },
     {
@@ -7753,7 +7923,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:18.234526+00:00",
+      "last_ok": "2026-10-29T01:28:50.159616+00:00",
       "note": ""
     },
     {
@@ -7762,7 +7932,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-10-28T00:53:14.028184+00:00",
+      "last_ok": "2026-10-29T01:28:45.869371+00:00",
       "note": ""
     },
     {
@@ -7771,16 +7941,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 35,
-      "last_ok": "2026-10-28T00:53:39.057304+00:00",
+      "last_ok": "2026-10-29T01:29:12.270534+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 24,
+      "consecutive_empty": 25,
       "last_item_count": 0,
-      "last_ok": "2026-10-28T00:53:41.269241+00:00",
+      "last_ok": "2026-10-29T01:29:14.429979+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -7789,7 +7959,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-10-28T00:53:25.038176+00:00",
+      "last_ok": "2026-10-29T01:28:58.000739+00:00",
       "note": ""
     },
     {
@@ -7798,14 +7968,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-10-28T00:53:35.660680+00:00",
+      "last_ok": "2026-10-29T01:29:09.005954+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-10-28T00:54:03.529368+00:00",
+    "finished_at": "2026-10-29T01:29:46.616210+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 33
+    "new_count": 17
   }
 }
