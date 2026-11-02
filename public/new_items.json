@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-01T00:37:50.854392+00:00",
-  "total": 826,
+  "generated_at": "2026-11-02T01:11:33.827882+00:00",
+  "total": 846,
   "items": [
+    {
+      "key": "ba602713d39aa068bac105e0d594ae261df8d65f",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "有馬礼子:「子どもの庭」ピアノのためのスケッチ集",
+      "url": "https://www.editionkawai.jp/item/detail/93719/",
+      "published_at": "",
+      "first_seen": "2026-11-02T01:11:07.966154+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "0382485afc7f5624d2021de1cea288fcb9c5e9f7",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "石若雅弥:「民謡ラプソディ」混声合唱とピアノのための",
+      "url": "https://www.editionkawai.jp/item/detail/92818/",
+      "published_at": "",
+      "first_seen": "2026-11-02T01:11:07.966154+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "10d12a5b0c35e5cd895672c2f55a5abe713aa6fe",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "信長貴富:「祈ってもいいだろうか」混声四部",
+      "url": "https://www.editionkawai.jp/item/detail/94090/",
+      "published_at": "",
+      "first_seen": "2026-11-02T01:11:07.966154+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "2f81c6fed65556d8203de524d3a5a6ed9085b826",
+      "publisher": "カワイ出版",
+      "publisher_id": "kawai",
+      "title": "石若雅弥:「カイト」混声合唱ピース",
+      "url": "https://www.editionkawai.jp/item/detail/94074/",
+      "published_at": "",
+      "first_seen": "2026-11-02T01:11:07.966154+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "77cb7f85237168d8d4f1db697608b68ca4a019b6",
+      "publisher": "ゼーレ弦楽器工房",
+      "publisher_id": "seele",
+      "title": "Claudio Bacci クラウディオ・バッチ",
+      "url": "https://seele.ocnk.net/product/2717",
+      "published_at": "2026-11-01T18:03:53+09:00",
+      "first_seen": "2026-11-02T01:10:50.302513+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "98280c90d0ef089ac3adbe48d0218db995f56d11",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>大都市の光 <br>作曲:マリー・ダグラス",
+      "url": "https://goldenheartspublications.com/?pid=194263667",
+      "published_at": "2026-11-01T14:23:31+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "62d9c411d7db42df94d6c011bbb55b720d8266c8",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>アイ・アム・イナフ <br>作曲:マリー・ダグラス",
+      "url": "https://goldenheartspublications.com/?pid=194263668",
+      "published_at": "2026-11-01T14:23:31+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "9475d052a41bab8ca4bdffff992429c4c5e30394",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>アイ・アム・イナフ <br>作曲:マリー・ダグラス",
+      "url": "https://goldenheartspublications.com/?pid=194263669",
+      "published_at": "2026-11-01T14:23:32+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3e8179d271d4d4a34c3bfc1268919753d5fe6cdc",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>アセンション <br>作曲:マリー・ダグラス",
+      "url": "https://goldenheartspublications.com/?pid=194263670",
+      "published_at": "2026-11-01T14:23:33+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "d5efff97aede7806fcae6716204cd45fa24f2bee",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>アセンション <br>作曲:マリー・ダグラス",
+      "url": "https://goldenheartspublications.com/?pid=194263671",
+      "published_at": "2026-11-01T14:23:33+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "f94180d7a6802fbef47c466863df14db8c3989fa",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>ステップ・バイ・ステップ <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263672",
+      "published_at": "2026-11-01T14:23:33+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "6488b5ca78672e4af4fdfff62dc33dfddb852911",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>ステップ・バイ・ステップ <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263673",
+      "published_at": "2026-11-01T14:23:34+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "bf4ddbfe1b3bcca4ee58099b07dc0845cf013c9e",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>流動する空気 <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263674",
+      "published_at": "2026-11-01T14:23:34+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "9435422688fdbccd39ffa57b22cd6a5b340d29a3",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>流動する空気 <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263675",
+      "published_at": "2026-11-01T14:23:35+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "a422e99eaf89dc0b682e1c359bdadd7fe3e55f0d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>青と緑の彼方へ <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263676",
+      "published_at": "2026-11-01T14:23:35+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "49a2da4b1deac9dd9f1c9415e6343b29cc58462a",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>青と緑の彼方へ <br>作曲:クレア・ハワード",
+      "url": "https://goldenheartspublications.com/?pid=194263677",
+      "published_at": "2026-11-01T14:23:36+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "57bb706ff4fdb2b353ee637c4649a214906d7a1c",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>旅の終わり <br>作曲:ニシャント・アマティヤ",
+      "url": "https://goldenheartspublications.com/?pid=194263678",
+      "published_at": "2026-11-01T14:23:36+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "27ce50e895d00b3c0ebeb61fd358e2a1497f2130",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>旅の終わり <br>作曲:ニシャント・アマティヤ",
+      "url": "https://goldenheartspublications.com/?pid=194263679",
+      "published_at": "2026-11-01T14:23:36+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "8c51bb9022bcbf1a47dc30ac77b2d0eec5788de6",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコアのみ】<br>秋の漂流 <br>作曲:ニシャント・アマティヤ",
+      "url": "https://goldenheartspublications.com/?pid=194263681",
+      "published_at": "2026-11-01T14:23:37+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "9f876629752c0e05bdb31a77167c52af08ee65c6",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>秋の漂流 <br>作曲:ニシャント・アマティヤ",
+      "url": "https://goldenheartspublications.com/?pid=194263682",
+      "published_at": "2026-11-01T14:23:38+09:00",
+      "first_seen": "2026-11-02T01:10:46.352048+00:00",
+      "method": "feed"
+    },
     {
       "key": "fc1ea17d1f877f0fa15e74a8352eb6958e3d8ac7",
       "publisher": "ASKS Winds",
@@ -8270,7 +8470,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-01T00:37:31.412429+00:00",
+      "last_ok": "2026-11-02T01:11:15.414845+00:00",
       "note": ""
     },
     {
@@ -8279,7 +8479,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-01T00:37:21.832831+00:00",
+      "last_ok": "2026-11-02T01:11:03.716651+00:00",
       "note": ""
     },
     {
@@ -8288,7 +8488,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:03.732522+00:00",
+      "last_ok": "2026-11-02T01:10:45.576101+00:00",
       "note": ""
     },
     {
@@ -8297,7 +8497,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:04.514040+00:00",
+      "last_ok": "2026-11-02T01:10:46.353933+00:00",
       "note": ""
     },
     {
@@ -8313,9 +8513,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 27,
+      "consecutive_empty": 28,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:48.076951+00:00",
+      "last_ok": "2026-11-02T01:11:31.626394+00:00",
       "note": "変化なし"
     },
     {
@@ -8324,7 +8524,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-01T00:37:01.618128+00:00",
+      "last_ok": "2026-11-02T01:10:43.954292+00:00",
       "note": ""
     },
     {
@@ -8333,7 +8533,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-01T00:37:15.346045+00:00",
+      "last_ok": "2026-11-02T01:10:58.010084+00:00",
       "note": ""
     },
     {
@@ -8342,7 +8542,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:08.096546+00:00",
+      "last_ok": "2026-11-02T01:10:49.405397+00:00",
       "note": ""
     },
     {
@@ -8351,7 +8551,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-01T00:37:00.415376+00:00",
+      "last_ok": "2026-11-02T01:10:43.251565+00:00",
       "note": ""
     },
     {
@@ -8360,7 +8560,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-01T00:37:17.886710+00:00",
+      "last_ok": "2026-11-02T01:11:00.475119+00:00",
       "note": ""
     },
     {
@@ -8369,7 +8569,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 19,
-      "last_ok": "2026-11-01T00:37:23.951258+00:00",
+      "last_ok": "2026-11-02T01:11:05.792700+00:00",
       "note": ""
     },
     {
@@ -8378,7 +8578,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-11-01T00:37:20.494210+00:00",
+      "last_ok": "2026-11-02T01:11:02.679457+00:00",
       "note": ""
     },
     {
@@ -8394,9 +8594,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 27,
+      "consecutive_empty": 28,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:50.849933+00:00",
+      "last_ok": "2026-11-02T01:11:33.793204+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -8405,7 +8605,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 49,
-      "last_ok": "2026-11-01T00:37:32.794299+00:00",
+      "last_ok": "2026-11-02T01:11:17.421157+00:00",
       "note": ""
     },
     {
@@ -8414,7 +8614,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-01T00:37:26.732566+00:00",
+      "last_ok": "2026-11-02T01:11:07.968164+00:00",
       "note": ""
     },
     {
@@ -8423,7 +8623,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-01T00:37:40.399683+00:00",
+      "last_ok": "2026-11-02T01:11:25.089298+00:00",
       "note": ""
     },
     {
@@ -8441,25 +8641,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-01T00:37:09.095444+00:00",
+      "last_ok": "2026-11-02T01:10:50.304427+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 28,
+      "consecutive_empty": 29,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:39.915392+00:00",
+      "last_ok": "2026-11-02T01:11:24.553197+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 27,
+      "consecutive_empty": 28,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:11.627304+00:00",
+      "last_ok": "2026-11-02T01:10:53.262907+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -8468,16 +8668,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-01T00:37:46.769871+00:00",
+      "last_ok": "2026-11-02T01:11:30.988654+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 28,
+      "consecutive_empty": 29,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:44.599929+00:00",
+      "last_ok": "2026-11-02T01:11:29.047023+00:00",
       "note": "変化なし"
     },
     {
@@ -8486,7 +8686,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-01T00:37:38.957689+00:00",
+      "last_ok": "2026-11-02T01:11:23.775978+00:00",
       "note": ""
     },
     {
@@ -8495,7 +8695,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-01T00:37:37.949414+00:00",
+      "last_ok": "2026-11-02T01:11:22.627568+00:00",
       "note": ""
     },
     {
@@ -8504,7 +8704,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:05.658674+00:00",
+      "last_ok": "2026-11-02T01:10:47.355458+00:00",
       "note": ""
     },
     {
@@ -8513,7 +8713,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:06.646060+00:00",
+      "last_ok": "2026-11-02T01:10:48.222194+00:00",
       "note": ""
     },
     {
@@ -8522,7 +8722,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-01T00:37:02.767028+00:00",
+      "last_ok": "2026-11-02T01:10:44.778754+00:00",
       "note": ""
     },
     {
@@ -8531,16 +8731,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 16,
-      "last_ok": "2026-11-01T00:37:28.441252+00:00",
+      "last_ok": "2026-11-02T01:11:12.002750+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 28,
+      "consecutive_empty": 29,
       "last_item_count": 0,
-      "last_ok": "2026-11-01T00:37:30.336509+00:00",
+      "last_ok": "2026-11-02T01:11:14.457634+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -8549,7 +8749,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-01T00:37:13.476680+00:00",
+      "last_ok": "2026-11-02T01:10:55.308307+00:00",
       "note": ""
     },
     {
@@ -8558,14 +8758,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-01T00:37:25.069169+00:00",
+      "last_ok": "2026-11-02T01:11:06.729678+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-01T00:37:50.851097+00:00",
+    "finished_at": "2026-11-02T01:11:33.822739+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 23
+    "new_count": 20
   }
 }
