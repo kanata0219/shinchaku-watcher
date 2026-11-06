@@ -1,7 +1,267 @@
 {
-  "generated_at": "2026-11-05T01:58:43.583698+00:00",
-  "total": 859,
+  "generated_at": "2026-11-06T01:58:24.847010+00:00",
+  "total": 885,
   "items": [
+    {
+      "key": "963b951b0e2b84f4591760f054a3b992bca39d21",
+      "publisher": "音楽之友社",
+      "publisher_id": "ongaku-no-tomo",
+      "title": "わたしは光",
+      "url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=552980",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:39.442591+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "cb764bf69337300c62a66dc293d8fbeea8591b74",
+      "publisher": "音楽之友社",
+      "publisher_id": "ongaku-no-tomo",
+      "title": "心は閉じ込めておくことができない",
+      "url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=546850",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:39.442591+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "5b6825207be092697cc2c2602ccc5ff645799556",
+      "publisher": "音楽之友社",
+      "publisher_id": "ongaku-no-tomo",
+      "title": "かすかに残る香りのように",
+      "url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=546840",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:39.442591+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "1b7370f3ca77476006eb0519e74c7d8e80bcaef0",
+      "publisher": "音楽之友社",
+      "publisher_id": "ongaku-no-tomo",
+      "title": "海にふれたい",
+      "url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=546830",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:39.442591+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "be854f35aa6a32a5bf5018c4a639299270380b5a",
+      "publisher": "音楽之友社",
+      "publisher_id": "ongaku-no-tomo",
+      "title": "スタニヤン・ストリート",
+      "url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=452750",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:39.442591+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "8b02a2e5e6ffe4f5102eb4be1f94f1a9459b2935",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "Brand New",
+      "url": "https://www.music8.com/products/detail213092.php",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:35.228576+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "57c6bb87d331d1664151fd25d3155a4a4b2cc68a",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "Brand New",
+      "url": "https://www.music8.com/products/detail213091.php",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:35.228576+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "43f6c99f88bd28073984ad8048d693fa83ad21cb",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "Brand New",
+      "url": "https://www.music8.com/products/detail213090.php",
+      "published_at": "",
+      "first_seen": "2026-11-06T01:57:35.228576+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "34f8bb50f8d2eec3ac146e547d100a5156ab2f1f",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 帝国行進曲 / 作曲:エドワード・エルガー 編曲:ジョセ・シンス (吹奏楽)(スコア+パート譜)",
+      "url": "https://goldenheartspublications.com/?pid=194331574",
+      "published_at": "2026-11-05T15:50:32+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "bb82e94d9b2cc147a62d17e7f163b62d5344a6ce",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) グリーグ・ハイライツ / 作曲:グリーグ 編曲:ヴァンデルベーク (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331576",
+      "published_at": "2026-11-05T15:50:33+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "525d86d912b245cfaa8144fbd2abf96a29107761",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) グリーグ・ハイライツ / 作曲:グリーグ 編曲:ヴァンデルベーク (吹奏楽)(スコア+パート譜)",
+      "url": "https://goldenheartspublications.com/?pid=194331577",
+      "published_at": "2026-11-05T15:50:33+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "5309b7e58f7ac234beff94348952e40bacd518a2",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 十字軍の王シーグル / 作曲:エドヴァルド・グリーグ 編曲:淀彰 (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331579",
+      "published_at": "2026-11-05T15:50:34+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "d4ca961817812ea3b14e89179dcdf16f6566ddcf",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 十字軍の王シーグル / 作曲:エドヴァルド・グリーグ 編曲:淀彰 (吹奏楽)(スコア+パート譜)",
+      "url": "https://goldenheartspublications.com/?pid=194331580",
+      "published_at": "2026-11-05T15:50:34+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3cbf2537801fea373d16747782853ae4af1e34e2",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 組曲「ホルベアの時代から」より アリア / 作曲:グリーグ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331582",
+      "published_at": "2026-11-05T15:50:34+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "4dadcc895cc608ccb7f072f3aef9776b4e3d086b",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 組曲「ホルベアの時代から」より アリア / 作曲:グリーグ (吹奏楽)(スコア+パート譜セット)",
+      "url": "https://goldenheartspublications.com/?pid=194331584",
+      "published_at": "2026-11-05T15:50:35+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "fc7080815dab1a48649fb3838c96378d00e16fd5",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) エニグマ変奏曲 / 作曲:エルガー 編曲:スライフェルス (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331585",
+      "published_at": "2026-11-05T15:50:35+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "acad843dbea1e3442fbfa17e6f13b445d571360c",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) エニグマ変奏曲 / 作曲:エルガー 編曲:スライフェルス (吹奏楽)(スコア+パート譜セット)",
+      "url": "https://goldenheartspublications.com/?pid=194331587",
+      "published_at": "2026-11-05T15:50:36+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "99b121cc7e8f3d71f2042d7800e9db6d373f65b7",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 行進曲「威風堂々」第2番 / 作曲:エドワード・エルガー (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331589",
+      "published_at": "2026-11-05T15:50:36+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "ee5ad6b6e0ce6e4f17b7b1dc325f9d307020eb74",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 行進曲「威風堂々」第2番 / 作曲:エドワード・エルガー (吹奏楽)(スコア+パート譜セット)",
+      "url": "https://goldenheartspublications.com/?pid=194331591",
+      "published_at": "2026-11-05T15:50:37+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "ded640f607a5f91ef5f49f1a6c76ab352d39eb10",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 「交響曲第1番」より アンダンテ・ノビルメンテ / 作曲:エルガー (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331592",
+      "published_at": "2026-11-05T15:50:37+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "38175b420566df8ee6073b6c8a35a628086f98b1",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 「交響曲第1番」より アンダンテ・ノビルメンテ / 作曲:エルガー (吹奏楽)(スコア+パート譜)",
+      "url": "https://goldenheartspublications.com/?pid=194331594",
+      "published_at": "2026-11-05T15:50:38+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "2bc03a7ecbc3c1294a2de4b3adff673863bc7a73",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 朝の歌 / 作曲:エドワード・エルガー 編曲:ヨハン・デメイ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194331595",
+      "published_at": "2026-11-05T15:50:38+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "b9c94e16945f397cb3eb2885ee3af8a604fb9361",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 朝の歌 / 作曲:エドワード・エルガー 編曲:ヨハン・デメイ (吹奏楽)(スコア+パート譜セット)",
+      "url": "https://goldenheartspublications.com/?pid=194331597",
+      "published_at": "2026-11-05T15:50:39+09:00",
+      "first_seen": "2026-11-06T01:57:17.908488+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "20a3d7b910c9b33a422a12bafddab00007010179",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "Departure〔Grade 3.5〕",
+      "url": "https://winds-score.com/products/wsl-00270",
+      "published_at": "2026-11-06T00:00:00+09:00",
+      "first_seen": "2026-11-06T01:57:14.019356+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "2d7c6b312526c510f11cd6d0b3f242e6feebe4b4",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "アイドルパワー〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsj-00183",
+      "published_at": "2026-11-06T00:00:00+09:00",
+      "first_seen": "2026-11-06T01:57:14.019356+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "41f5f72fe84fee45e071ba583529a27fc78a777f",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "J-BEST ドラえもんのうた〜夢をかなえてドラえもん〜ドラえもん〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsd-00038",
+      "published_at": "2026-11-06T00:00:00+09:00",
+      "first_seen": "2026-11-06T01:57:14.019356+00:00",
+      "method": "feed"
+    },
     {
       "key": "85f592bb3ad601c5499a3db9e143a7426ffafb3a",
       "publisher": "オクタヴィア・レコード",
@@ -8600,7 +8860,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-05T01:57:14.553088+00:00",
+      "last_ok": "2026-11-06T01:57:46.777805+00:00",
       "note": ""
     },
     {
@@ -8609,7 +8869,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-05T01:57:03.197780+00:00",
+      "last_ok": "2026-11-06T01:57:36.372711+00:00",
       "note": ""
     },
     {
@@ -8618,7 +8878,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:40.310404+00:00",
+      "last_ok": "2026-11-06T01:57:17.072264+00:00",
       "note": ""
     },
     {
@@ -8627,7 +8887,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:41.275122+00:00",
+      "last_ok": "2026-11-06T01:57:17.910784+00:00",
       "note": ""
     },
     {
@@ -8643,9 +8903,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 31,
+      "consecutive_empty": 32,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:58:40.830485+00:00",
+      "last_ok": "2026-11-06T01:58:22.252476+00:00",
       "note": "変化なし"
     },
     {
@@ -8654,7 +8914,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-05T01:56:37.938289+00:00",
+      "last_ok": "2026-11-06T01:57:14.985794+00:00",
       "note": ""
     },
     {
@@ -8663,7 +8923,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-05T01:56:55.990552+00:00",
+      "last_ok": "2026-11-06T01:57:30.965575+00:00",
       "note": ""
     },
     {
@@ -8672,7 +8932,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:45.690287+00:00",
+      "last_ok": "2026-11-06T01:57:22.424748+00:00",
       "note": ""
     },
     {
@@ -8681,7 +8941,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-05T01:56:36.968564+00:00",
+      "last_ok": "2026-11-06T01:57:14.021971+00:00",
       "note": ""
     },
     {
@@ -8690,7 +8950,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-05T01:56:58.234864+00:00",
+      "last_ok": "2026-11-06T01:57:32.864232+00:00",
       "note": ""
     },
     {
@@ -8699,17 +8959,17 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 19,
-      "last_ok": "2026-11-05T01:57:05.710428+00:00",
+      "last_ok": "2026-11-06T01:57:38.414031+00:00",
       "note": ""
     },
     {
       "publisher_id": "music8",
       "publisher": "music8 (ミュージックエイト)",
       "last_error": null,
-      "consecutive_empty": 1,
-      "last_item_count": 0,
-      "last_ok": "2026-11-05T01:57:01.832227+00:00",
-      "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
+      "consecutive_empty": 0,
+      "last_item_count": 20,
+      "last_ok": "2026-11-06T01:57:35.230624+00:00",
+      "note": ""
     },
     {
       "publisher_id": "accord",
@@ -8724,9 +8984,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 31,
+      "consecutive_empty": 32,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:58:43.578064+00:00",
+      "last_ok": "2026-11-06T01:58:24.841306+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -8734,8 +8994,8 @@
       "publisher": "オクタヴィア・レコード",
       "last_error": null,
       "consecutive_empty": 0,
-      "last_item_count": 48,
-      "last_ok": "2026-11-05T01:57:15.832462+00:00",
+      "last_item_count": 46,
+      "last_ok": "2026-11-06T01:57:48.200810+00:00",
       "note": ""
     },
     {
@@ -8744,7 +9004,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-05T01:57:08.899442+00:00",
+      "last_ok": "2026-11-06T01:57:41.351364+00:00",
       "note": ""
     },
     {
@@ -8753,7 +9013,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-05T01:58:33.286257+00:00",
+      "last_ok": "2026-11-06T01:58:15.048653+00:00",
       "note": ""
     },
     {
@@ -8771,25 +9031,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-05T01:56:47.032693+00:00",
+      "last_ok": "2026-11-06T01:57:23.529164+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 32,
+      "consecutive_empty": 33,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:58:32.928494+00:00",
+      "last_ok": "2026-11-06T01:58:14.008818+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 31,
+      "consecutive_empty": 32,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:56:50.634330+00:00",
+      "last_ok": "2026-11-06T01:57:27.068671+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -8798,16 +9058,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-05T01:58:40.003536+00:00",
+      "last_ok": "2026-11-06T01:58:21.299381+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 32,
+      "consecutive_empty": 33,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:58:37.813173+00:00",
+      "last_ok": "2026-11-06T01:58:19.437182+00:00",
       "note": "変化なし"
     },
     {
@@ -8816,7 +9076,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-05T01:58:31.961806+00:00",
+      "last_ok": "2026-11-06T01:58:13.139659+00:00",
       "note": ""
     },
     {
@@ -8825,7 +9085,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-05T01:58:31.028121+00:00",
+      "last_ok": "2026-11-06T01:58:12.015986+00:00",
       "note": ""
     },
     {
@@ -8834,7 +9094,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:42.517095+00:00",
+      "last_ok": "2026-11-06T01:57:19.176908+00:00",
       "note": ""
     },
     {
@@ -8843,7 +9103,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:43.698906+00:00",
+      "last_ok": "2026-11-06T01:57:20.145911+00:00",
       "note": ""
     },
     {
@@ -8852,7 +9112,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-05T01:56:39.062446+00:00",
+      "last_ok": "2026-11-06T01:57:15.971230+00:00",
       "note": ""
     },
     {
@@ -8861,16 +9121,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 16,
-      "last_ok": "2026-11-05T01:57:10.893402+00:00",
+      "last_ok": "2026-11-06T01:57:43.613960+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 32,
+      "consecutive_empty": 33,
       "last_item_count": 0,
-      "last_ok": "2026-11-05T01:57:13.245401+00:00",
+      "last_ok": "2026-11-06T01:57:45.618388+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -8879,7 +9139,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-05T01:56:52.867538+00:00",
+      "last_ok": "2026-11-06T01:57:28.736084+00:00",
       "note": ""
     },
     {
@@ -8888,14 +9148,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-05T01:57:06.896821+00:00",
+      "last_ok": "2026-11-06T01:57:39.444964+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-05T01:58:43.578964+00:00",
+    "finished_at": "2026-11-06T01:58:24.842311+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 6
+    "new_count": 26
   }
 }
