@@ -1,7 +1,247 @@
 {
-  "generated_at": "2026-11-18T03:18:10.184078+00:00",
-  "total": 996,
+  "generated_at": "2026-11-19T02:55:11.842702+00:00",
+  "total": 1020,
   "items": [
+    {
+      "key": "730b1b171acc91849f08d386156210aba9e13795",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "ショスタコーヴィチ:交響曲 第5番 沼尻竜典&神奈川フィル",
+      "url": "https://octavia-shop.com/shopdetail/000000001851",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:54.558609+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "a8ad5f41fb39f6773734db64c9d28199971f78ad",
+      "publisher": "ASKS Winds",
+      "publisher_id": "asks-winds",
+      "title": "【Euph】『Spring Ephemeral』ユーフォニアムソロ譜/Hiroki Takahashi 〈Spring Ephemeral〉 Euphonium Solo",
+      "url": "https://asks.shop/shopdetail/000000003164/",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:53.283785+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "add4fe5869cdbbdc0f046ba41384ccc9f6aa8292",
+      "publisher": "ASKS Winds",
+      "publisher_id": "asks-winds",
+      "title": "【Eu4】『マウンテンフォールズ/バリーフォールズ』ユーフォニアム四重奏譜/Hiroki Takahashi 〈Mountain folds, Valley folds〉 Euphonium Quartet",
+      "url": "https://asks.shop/shopdetail/000000003165/",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:53.283785+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "03bfea444e3ad9a405386a5657186bab2d454ac0",
+      "publisher": "ASKS Winds",
+      "publisher_id": "asks-winds",
+      "title": "【弦4】『2026 NHKサッカーテーマ『烏/米津玄師』』弦楽四重奏/ arr. Hidetoshi Takumi 〈Karasu〉 String Quartet",
+      "url": "https://asks.shop/shopdetail/000000003166/",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:53.283785+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "3cc6ed959e65216861c27599514d1ce86dd4cd47",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "僕のこと【ドレミ階名付き】",
+      "url": "https://www.music8.com/products/detail213561.php",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:42.227955+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "0ef42ba16ba54d853ea4d9dc90fced0bd0c89d2b",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "『映画ちいかわ 人魚の島のひみつ』メドレー",
+      "url": "https://www.music8.com/products/detail213554.php",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:42.227955+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "a2469e626ebc7d13567e88e95889a1facc760a82",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "『映画ちいかわ 人魚の島のひみつ』メドレー",
+      "url": "https://www.music8.com/products/detail213553.php",
+      "published_at": "",
+      "first_seen": "2026-11-19T02:54:42.227955+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "55fc2c6d89d43d374f4c0bffa0b5160830f8e2af",
+      "publisher": "ゼーレ弦楽器工房",
+      "publisher_id": "seele",
+      "title": "スピロコア",
+      "url": "https://seele.ocnk.net/product/1",
+      "published_at": "2026-11-18T13:41:33+09:00",
+      "first_seen": "2026-11-19T02:54:31.619200+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "f9676beff6a890f30c108ef682ebc5a317647f4a",
+      "publisher": "ゼーレ弦楽器工房",
+      "publisher_id": "seele",
+      "title": "Rudolf Lang ルドルフ・ラング",
+      "url": "https://seele.ocnk.net/product/2723",
+      "published_at": "2026-11-18T19:19:56+09:00",
+      "first_seen": "2026-11-19T02:54:31.619200+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "88dd0cd14e805454b20ead8c5e583e0cc1a4eb93",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 未来への扉 / 作曲:天野正道 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514381",
+      "published_at": "2026-11-18T16:10:55+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "32cfefcabcc20c2365296d49c0bdc571c289c157",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ドラマ「花より男子」より2つのメロディ / 作曲:山下康介 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514383",
+      "published_at": "2026-11-18T16:10:55+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "4c457388e6e640b1ddd8b5a8078e50b0897fea23",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) Currente / 作曲:本多俊之 (ソプラノ・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194514384",
+      "published_at": "2026-11-18T16:10:56+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0cb7fdcac623bdd0c63156f60cef81cbc90cb68e",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 時の標本 ティンパニと4人の打楽器奏者のための / 作曲:茂木宏文 (打楽器五重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514385",
+      "published_at": "2026-11-18T16:10:56+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "e7b7f939f75fb84e2422eba261dfee1c76bc0fa3",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 五つの小品 / 作曲:天野正道 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514388",
+      "published_at": "2026-11-18T16:10:57+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "5f75b98ece288ef0729317c7a8eecc772ae94e7f",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 銀の微塵の散らばる空へ / 作曲:伊佐治直 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514389",
+      "published_at": "2026-11-18T16:10:57+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "c3fb92903f2269a1ed9fac70ff2770791d752688",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) フォーレの名による子守歌 / 作曲:モーリス・ラヴェル 編曲:天野正道 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514390",
+      "published_at": "2026-11-18T16:10:57+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "31b1aa69880670d8445d6a009b4b91c236dd144e",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ハイドンの名によるメヌエット / 作曲:モーリス・ラヴェル 編曲:天野正道 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514392",
+      "published_at": "2026-11-18T16:10:58+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "28216a272a6a31060ef89978ce3dabfb92108a1d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 望郷のファンタジア / 作曲:伊藤康英 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514393",
+      "published_at": "2026-11-18T16:10:58+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0879615005db9311f3912b84e4632e1fb2cf9b35",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) Shalom / 作曲:和田信 (金管六重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514395",
+      "published_at": "2026-11-18T16:10:59+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "5a0d68f08fef249b00f1f45f57f0510f98a309fb",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) Fandango / 作曲:アントニオ・ソレル 編曲:山田武彦 (ユーフォニアム&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194514397",
+      "published_at": "2026-11-18T16:10:59+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "9fab630dd1418c9a0cc90c02872ec1b38af4e09b",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ユーフォニアムとマリンバのための前奏曲 / 作曲:山下康介 (ユーフォニアム&マリンバ)",
+      "url": "https://goldenheartspublications.com/?pid=194514398",
+      "published_at": "2026-11-18T16:10:59+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "2f72f4f6cb9fd620e9043e8cca2a8968efa008ef",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) Concerto du vent / 作曲:本多俊之 (ソプラノ・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194514400",
+      "published_at": "2026-11-18T16:11:00+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "4329481e321fe4fad7759b94fa5ae5b561519ea5",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) フジテレビ系「家族ゲーム」 / 作曲:本多俊之 (サックス五重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514402",
+      "published_at": "2026-11-18T16:11:00+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "1646bb92f4fd2e1a868f94d9e6c6e97b90ae5f9b",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 東風I / 作曲:松下功 (クラリネット三重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194514992",
+      "published_at": "2026-11-18T16:22:05+09:00",
+      "first_seen": "2026-11-19T02:54:25.705222+00:00",
+      "method": "feed"
+    },
     {
       "key": "115ce5f5ebad2584fde85a845e625b7a47e70f0b",
       "publisher": "Stone Music",
@@ -9761,206 +10001,6 @@
       "published_at": "2026-09-11T00:00:00+09:00",
       "first_seen": "2026-10-06T16:20:18.560172+00:00",
       "method": "feed"
-    },
-    {
-      "key": "75d6d6d85e49f0e49a88689c3b8c2964cb8cf1f6",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(クラリネット3重奏)",
-      "url": "https://winds-score.com/products/wsew-00103",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "d0b236a2276acf6854eb40cf2284d5b08f9723b2",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(バリ・チューバ3重奏)",
-      "url": "https://winds-score.com/products/wseb-00081",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "c3cdb59da21282692937808f76a486ef2ee1dfb9",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(サックス3重奏)",
-      "url": "https://winds-score.com/products/wsew-00105",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "5ae9aea641d158e106076a5cda5fe59af221b570",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(サックス4重奏)",
-      "url": "https://winds-score.com/products/wsew-00106",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "00bb2c7831450ae23263fa1d7703df189cd946d4",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(ホルン3重奏)",
-      "url": "https://winds-score.com/products/wseb-00079",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "8eefcb450e1d1742f7c9d744689ecac1f5103297",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(トランペット3重奏)",
-      "url": "https://winds-score.com/products/wseb-00078",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "30dea4be3e68e5638b6fb76774f804e96a853546",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(クラリネット4重奏)",
-      "url": "https://winds-score.com/products/wsew-00104",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "63aa1b41f0860cfff0645fec9a104f0d63c44bf9",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(フルート3重奏)",
-      "url": "https://winds-score.com/products/wsew-00102",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "81cc66b35dfc0e33faaa3601026eb8e794468173",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(トロンボーン3重奏)",
-      "url": "https://winds-score.com/products/wseb-00080",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "c6ff7b7850b6237ee8baf4c5b5a0ef6ea0514343",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔1分アンサンブル〕(金管5重奏)",
-      "url": "https://winds-score.com/products/wseb-00077",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "cad8119cb174a8058643f404c5db020f740449e9",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "HOT LIMIT〔Grade 2(小編成)〕",
-      "url": "https://winds-score.com/products/sbl-00150",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "f228650e2072371761dc437abb7e47b7d5aeac03",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "Zoo ~君がいるから~〔Grade 3.5〕",
-      "url": "https://winds-score.com/products/wsl-00269",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "f4bc793032ef9679ece1a2a00ff23dcdc896a921",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔Grade 3.5(フレックスバンド)〕",
-      "url": "https://winds-score.com/products/wsbf-00070",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "edd26328dc07fb6a897e2308d2d7f3483fb7adf7",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子(フレックス5(~8)重奏)",
-      "url": "https://winds-score.com/products/wsef-00050",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "66eef100c79365903b0ddebbe697bfd66340abc7",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "3月9日〔Grade 2.5(小編成)〕",
-      "url": "https://winds-score.com/products/sbl-00154",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "fbfb80ec4f7488d1920bc7c6b3d70f8bb721272c",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "Xmas Swingin' コレクション(フレックス5(~8)重奏)",
-      "url": "https://winds-score.com/products/wsef-00052",
-      "published_at": "2026-09-18T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "073984d79e98ebaf7659c91e1f63db29950ae3c3",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "White Love〔Grade 2.5(小編成)〕",
-      "url": "https://winds-score.com/products/sbl-00148",
-      "published_at": "2026-09-25T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "66a95ba999727af291fea0f8fe70118859838c9b",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "劇薬中毒〔Grade 3〕",
-      "url": "https://winds-score.com/products/wsj-00179",
-      "published_at": "2026-09-25T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "5239d29e70290d21bd50fe3b35e33dde4277f71b",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "サンライズ〔Grade 4〕",
-      "url": "https://winds-score.com/products/wsl-00303",
-      "published_at": "2026-09-25T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "1ad083c5539f498d11d4c1882f81a4f5930d52b5",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "津軽海峡・冬景色〔Grade 3〕",
-      "url": "https://winds-score.com/products/wsl-00304",
-      "published_at": "2026-10-02T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
     }
   ],
   "health": [
@@ -9970,7 +10010,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-18T03:17:48.627494+00:00",
+      "last_ok": "2026-11-19T02:54:53.287302+00:00",
       "note": ""
     },
     {
@@ -9979,7 +10019,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-18T03:16:29.613690+00:00",
+      "last_ok": "2026-11-19T02:54:43.398142+00:00",
       "note": ""
     },
     {
@@ -9988,7 +10028,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:11.938951+00:00",
+      "last_ok": "2026-11-19T02:54:24.903558+00:00",
       "note": ""
     },
     {
@@ -9997,7 +10037,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:12.895937+00:00",
+      "last_ok": "2026-11-19T02:54:25.708358+00:00",
       "note": ""
     },
     {
@@ -10013,9 +10053,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 11,
+      "consecutive_empty": 12,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:18:07.388599+00:00",
+      "last_ok": "2026-11-19T02:55:08.871668+00:00",
       "note": "変化なし"
     },
     {
@@ -10024,7 +10064,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-18T03:16:09.724622+00:00",
+      "last_ok": "2026-11-19T02:54:22.473575+00:00",
       "note": ""
     },
     {
@@ -10033,7 +10073,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-18T03:16:23.789689+00:00",
+      "last_ok": "2026-11-19T02:54:37.921005+00:00",
       "note": ""
     },
     {
@@ -10042,7 +10082,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:16.604791+00:00",
+      "last_ok": "2026-11-19T02:54:30.436943+00:00",
       "note": ""
     },
     {
@@ -10051,7 +10091,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-18T03:16:08.657610+00:00",
+      "last_ok": "2026-11-19T02:54:21.514180+00:00",
       "note": ""
     },
     {
@@ -10060,7 +10100,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-18T03:16:25.980732+00:00",
+      "last_ok": "2026-11-19T02:54:39.953523+00:00",
       "note": ""
     },
     {
@@ -10069,7 +10109,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 22,
-      "last_ok": "2026-11-18T03:16:31.968315+00:00",
+      "last_ok": "2026-11-19T02:54:45.817622+00:00",
       "note": ""
     },
     {
@@ -10078,7 +10118,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-11-18T03:16:28.356023+00:00",
+      "last_ok": "2026-11-19T02:54:42.230346+00:00",
       "note": ""
     },
     {
@@ -10094,9 +10134,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 44,
+      "consecutive_empty": 45,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:18:10.178391+00:00",
+      "last_ok": "2026-11-19T02:55:11.834968+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10104,8 +10144,8 @@
       "publisher": "オクタヴィア・レコード",
       "last_error": null,
       "consecutive_empty": 0,
-      "last_item_count": 46,
-      "last_ok": "2026-11-18T03:17:49.839927+00:00",
+      "last_item_count": 44,
+      "last_ok": "2026-11-19T02:54:54.561904+00:00",
       "note": ""
     },
     {
@@ -10114,7 +10154,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-18T03:16:43.420194+00:00",
+      "last_ok": "2026-11-19T02:54:48.487170+00:00",
       "note": ""
     },
     {
@@ -10123,7 +10163,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-18T03:18:00.068405+00:00",
+      "last_ok": "2026-11-19T02:55:02.677164+00:00",
       "note": ""
     },
     {
@@ -10141,25 +10181,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-18T03:16:17.796954+00:00",
+      "last_ok": "2026-11-19T02:54:31.623931+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 45,
+      "consecutive_empty": 46,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:17:59.371157+00:00",
+      "last_ok": "2026-11-19T02:55:02.182870+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 44,
+      "consecutive_empty": 45,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:16:19.997346+00:00",
+      "last_ok": "2026-11-19T02:54:34.259565+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -10168,16 +10208,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-18T03:18:06.640796+00:00",
+      "last_ok": "2026-11-19T02:55:08.162625+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 45,
+      "consecutive_empty": 46,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:18:04.252124+00:00",
+      "last_ok": "2026-11-19T02:55:06.362272+00:00",
       "note": "変化なし"
     },
     {
@@ -10186,7 +10226,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-18T03:17:58.456021+00:00",
+      "last_ok": "2026-11-19T02:55:01.356826+00:00",
       "note": ""
     },
     {
@@ -10195,7 +10235,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-18T03:17:57.418877+00:00",
+      "last_ok": "2026-11-19T02:55:00.336110+00:00",
       "note": ""
     },
     {
@@ -10204,7 +10244,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:13.998266+00:00",
+      "last_ok": "2026-11-19T02:54:27.256855+00:00",
       "note": ""
     },
     {
@@ -10213,7 +10253,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:14.977164+00:00",
+      "last_ok": "2026-11-19T02:54:28.130866+00:00",
       "note": ""
     },
     {
@@ -10222,7 +10262,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-18T03:16:10.679132+00:00",
+      "last_ok": "2026-11-19T02:54:23.575640+00:00",
       "note": ""
     },
     {
@@ -10231,16 +10271,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 16,
-      "last_ok": "2026-11-18T03:17:45.638521+00:00",
+      "last_ok": "2026-11-19T02:54:50.108099+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 45,
+      "consecutive_empty": 46,
       "last_item_count": 0,
-      "last_ok": "2026-11-18T03:17:47.452151+00:00",
+      "last_ok": "2026-11-19T02:54:52.030980+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10249,7 +10289,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-18T03:16:21.713543+00:00",
+      "last_ok": "2026-11-19T02:54:36.044519+00:00",
       "note": ""
     },
     {
@@ -10258,14 +10298,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-18T03:16:33.306642+00:00",
+      "last_ok": "2026-11-19T02:54:47.126158+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-18T03:18:10.179403+00:00",
+    "finished_at": "2026-11-19T02:55:11.836815+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 2
+    "new_count": 24
   }
 }
