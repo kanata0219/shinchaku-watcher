@@ -1,7 +1,327 @@
 {
-  "generated_at": "2026-11-19T02:55:11.842702+00:00",
-  "total": 1020,
+  "generated_at": "2026-11-20T02:48:27.348601+00:00",
+  "total": 1052,
   "items": [
+    {
+      "key": "256350dfbb87283e2d061061e69d3df57d9ab233",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "飯田洋輔 Premium Symphonic Concert “MAESTOSO”",
+      "url": "https://octavia-shop.com/shopdetail/000000001852/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:09.664535+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "139959459461491db567e8d6abe382e31be177ec",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "ショパン・ベスト 松本和将",
+      "url": "https://octavia-shop.com/shopdetail/000000001853/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:09.664535+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "6f072a1be7a90dcc6f1514896442c3b35c179511",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "モーツァルト:クラヴィーア作品集",
+      "url": "https://octavia-shop.com/shopdetail/000000001854/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:09.664535+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "2b7295b5ac41b2d1ee50fe6236829304f7796e2a",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "プロコフィエフ:ヴァイオリン・ソナタ 第1番、第2番",
+      "url": "https://octavia-shop.com/shopdetail/000000001855/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:09.664535+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "2b6f7f3104f357b6046d375c7db6e8b0e9ddaaa8",
+      "publisher": "オクタヴィア・レコード",
+      "publisher_id": "octavia",
+      "title": "ベートーヴェン:交響曲 第9番「合唱」& 「レオノーレ」序曲第3番 作品72b",
+      "url": "https://octavia-shop.com/shopdetail/000000001856/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:09.664535+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "db630eaddf2392dcf8fb5b872f93553272bc6cf0",
+      "publisher": "ASKS Winds",
+      "publisher_id": "asks-winds",
+      "title": "【金5】『真っ赤な太陽/美空ひばり』金管五重奏譜/ arr. Kunihiro Yoneyama 〈Makkanataiyou / Misora Hibari〉 Brass Quintet",
+      "url": "https://asks.shop/shopdetail/000000003160/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:08.116019+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "5f845bc682cf2b3bdec4e0bebd36c43be8325bdf",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 明日のヒットメロディー'27-02",
+      "url": "https://shop.zen-on.co.jp/item/detail/768662/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "108b54606164fe0e31b48f5ace9eed9613315e0d",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 福士則夫:フォリア",
+      "url": "https://shop.zen-on.co.jp/item/detail/238613/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "c486d221e112f46436b52047d3032c25a569f7fb",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 蒔田尚昊:歌曲集 智恵子抄",
+      "url": "https://shop.zen-on.co.jp/item/detail/728267/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "ae4bbca11d940b8117404aaab993a6dbfb7052a8",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 川浦義広:いま始まる新しいいま 混声合唱とピアノのための組曲",
+      "url": "https://shop.zen-on.co.jp/item/detail/719457/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "37e6894edac9379357df1363d1570d4324fe3c70",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 安井恵一:2つのアヴェ・マリア 女声合唱とピアノのための",
+      "url": "https://shop.zen-on.co.jp/item/detail/719562/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "3510bd8ed91d79863ce86f40bf12a000ce19845c",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 メサジェ:ソロ・ド・コンクール クラリネットのための",
+      "url": "https://shop.zen-on.co.jp/item/detail/540106/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "b57dd07a4626a2d87e73de349739b030836525db",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 ゴーベール:クラリネットとピアノのためのファンタジー",
+      "url": "https://shop.zen-on.co.jp/item/detail/540105/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "4b604b57b5019892ca4344c103f0823e31e1ffc1",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 ラボー:ソロ・ド・コンクール 作品10 クラリネットのための",
+      "url": "https://shop.zen-on.co.jp/item/detail/540104/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "cdc40057a4ea7400f90ca20e7bd3c29d6489ce38",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 グリーグ:トロルハウゲンの婚礼の日(PP-602 )",
+      "url": "https://shop.zen-on.co.jp/item/detail/911602/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "44da656cc81aa8166327ccfbd2fbe3bd512e65f0",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 シベリウス:樅の木(PP-601 )",
+      "url": "https://shop.zen-on.co.jp/item/detail/911601/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "3f936a5e914c1e2a2b028dc3134e7a2310f93b3e",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 シューマン:チェロ協奏曲 作品129[ヴィオラ版]",
+      "url": "https://shop.zen-on.co.jp/item/detail/337065/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "6720aa11808c77d13ca8e659d0ad0102d0f0ac3c",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 シューマン:チェロ協奏曲 イ短調 作品129",
+      "url": "https://shop.zen-on.co.jp/item/detail/336125/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "e882098e44caa6172415951fad38c955c1f9f637",
+      "publisher": "全音楽譜出版社",
+      "publisher_id": "zen-on",
+      "title": "2026年12月15日発売 ヴァイオリン名曲集",
+      "url": "https://shop.zen-on.co.jp/item/detail/322151/",
+      "published_at": "",
+      "first_seen": "2026-11-20T02:48:04.849562+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "9260ed3c00e5add1f9a3d551e9ee72e63e9f8206",
+      "publisher": "メディエイトワークス",
+      "publisher_id": "mediate-works",
+      "title": "組曲ドリーより1.子守歌、2.ミ・ア・ウ、4.キティー・ヴァルス、6.スペインの踊り/木管5重奏",
+      "url": "https://m8w-music.com/?pid=194530248",
+      "published_at": "2026-11-19T18:36:01+09:00",
+      "first_seen": "2026-11-20T02:47:30.908347+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "28e5d827aadf434ba2d7df0e451002b585dbd373",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "ひとりごつ(TVアニメ「ちいかわ」エンディングテーマ) 吹奏楽譜《12月4日発売》",
+      "url": "https://www.gakufu.co.jp/products/pop498",
+      "published_at": "2026-11-19T13:10:08+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "98d6734373722aaf34751cc31eb7b94ec0395fd0",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "Further leep(さらなる飛躍)(comp.清水大輔) 吹奏楽譜《12月4日発売》",
+      "url": "https://www.gakufu.co.jp/products/org143",
+      "published_at": "2026-11-19T13:10:08+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "22dc3c313122cd675882a12a021c177172cd9c05",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "The First Step【フレックス版】(Flex 4 + Perc.)(comp.近藤悠介) 吹奏楽譜《12月18日発売》",
+      "url": "https://www.gakufu.co.jp/products/org141",
+      "published_at": "2026-11-19T13:10:08+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "87e0719ab83fef1554f1bc76a43cefc291ba754e",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "行進曲『理想の海へ』(comp.清水大輔) 吹奏楽譜《12月25日発売》",
+      "url": "https://www.gakufu.co.jp/products/org145",
+      "published_at": "2026-11-19T13:10:09+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "f757e5f0e3101d9008c5c198b16cc02edd0bff1c",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "フニクリ・フニクラ 吹奏楽譜《12月25日発売》",
+      "url": "https://www.gakufu.co.jp/products/pop481",
+      "published_at": "2026-11-19T13:10:09+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "f1296a3d7f429d6572728fa1e31043c456aa9afd",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "The First Step【吹奏楽版】(for Wind Ensemble)(comp.近藤悠介) 吹奏楽譜《12月22日発売》",
+      "url": "https://www.gakufu.co.jp/products/org140",
+      "published_at": "2026-11-19T13:10:11+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "45bb2e4291af63f292bb6180d4469185c3102b7f",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "ひとりごつ(TVアニメ「ちいかわ」エンディングテーマ)【5-6年生用、参考CD付、ドレミ音名譜付】《合奏楽譜》(12月11日出版)",
+      "url": "https://www.gakufu.co.jp/products/kgh660",
+      "published_at": "2026-11-19T13:10:12+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "78eea0b2d769c0fd20c9aa535ee965c4828c209a",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "Cut to the Chase(スタルター) 吹奏楽譜",
+      "url": "https://www.gakufu.co.jp/products/un8295",
+      "published_at": "2026-11-19T13:10:21+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "7e2bbf717610d47d94143f3047a2cf39b66a1aad",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "SAKURA ~four seasons~(arr.三浦真理)【フルート5 8重奏】 楽譜《12月4日発売》",
+      "url": "https://www.gakufu.co.jp/products/ens200",
+      "published_at": "2026-11-19T13:12:04+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "4861a8917f73b0aa22ff79884b9fc218b155f152",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "ロビンソン/スピッツ フレックス楽譜《12月18日発売》",
+      "url": "https://www.gakufu.co.jp/products/flex298",
+      "published_at": "2026-11-19T13:12:04+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0c75b01d9d09da94d8a0ffb54715f2f9dc617000",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "You Raise Me Up/Secret Garden フレックス楽譜《11月27日発売》",
+      "url": "https://www.gakufu.co.jp/products/flex258",
+      "published_at": "2026-11-19T13:12:05+09:00",
+      "first_seen": "2026-11-20T02:47:29.477482+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "5e80041561d19ea353c786497698bc1d31c6cbbf",
+      "publisher": "Winds Score (ウィンズスコア)",
+      "publisher_id": "winds-score",
+      "title": "Love again〔Grade 3〕",
+      "url": "https://winds-score.com/products/wsl-00317",
+      "published_at": "2026-11-20T00:00:00+09:00",
+      "first_seen": "2026-11-20T02:47:28.544386+00:00",
+      "method": "feed"
+    },
     {
       "key": "730b1b171acc91849f08d386156210aba9e13795",
       "publisher": "オクタヴィア・レコード",
@@ -9681,326 +10001,6 @@
       "published_at": "2026-06-11T15:31:27+09:00",
       "first_seen": "2026-10-06T16:20:20.666941+00:00",
       "method": "feed"
-    },
-    {
-      "key": "9cd6c44dff6bbf0ee3e4844fae7ea901bed2d5c6",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "子供の領分よりゴリウォークのケークウォーク(C.ドビュッシー)/木管5重奏",
-      "url": "https://m8w-music.com/?pid=192177126",
-      "published_at": "2026-06-11T15:40:27+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "778478f68849d661f90da3dcec81e090bcddb148",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "交響曲第5番より第4楽章/Symphony No.5 in B-flat major IV.Finale: Adagio - Allegro",
-      "url": "https://m8w-music.com/?pid=192260429",
-      "published_at": "2026-06-18T17:03:27+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "3b88821f7c73791413e6de9b7a25173ac70f2e85",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "歌劇「カルメン」より2.街を行きかう人々よ、3.兵隊さんと一緒に、12.鈴を鳴らして、20.何が出ようとも(カルタの3重唱)/フルート5重奏",
-      "url": "https://m8w-music.com/?pid=192262582",
-      "published_at": "2026-06-18T18:04:43+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "ea89f5c01e48c4d2e91724f698e08a1a912dbb75",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "組曲「絵のような風景」より1.行進曲、2.舞踏会、3.お告げの鐘、4.ジプシーの祭",
-      "url": "https://m8w-music.com/?pid=192334682",
-      "published_at": "2026-06-24T17:16:19+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "91ca5495cfab825290e0e76cde6d20c6b5e27ef7",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "フォーレ/イヴの歌《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2017",
-      "published_at": "2026-09-30T11:16:46+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "aa83e28629fde8eedcc7e2be2e574ba5e6a93c49",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ベッリーニ/ビアンカとフェルナンド《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2016",
-      "published_at": "2026-09-30T11:16:46+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "90e9cedd4f8bc47d321753b8667b8bc1f7416dac",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ロッシーニ/オテロ《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2015",
-      "published_at": "2026-09-30T11:16:46+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "7a0c9a9c2a005e5a2283e93124b4ca5aaeca105b",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ロッシーニ/バビロニアのチーロ《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2014",
-      "published_at": "2026-09-30T11:16:46+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "e0cac9f086c4d83936c78397f6deb0fb3ec9afaf",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "イタリア歌曲集 第1巻(17-18世紀)《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2011",
-      "published_at": "2026-09-30T11:16:46+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "d9cdf86d3858d6aaeb482104b32adeb3efcf6306",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "イタリア歌曲集 第2巻(17-18世紀)《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2012",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "163dfb36a1f4f5c794905ea67cb48e2fd76e7f73",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "24のイタリア歌曲とアリア《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2013",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "4044f11ea116a3fa906d60a144b9514bd88d961d",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "シューマン/55の歌曲集《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2010",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "56e2581d21d12d0ae824d0b09d671d2b26b87ca5",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ベートーヴェン/遥かなる恋人に op. 98《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2009",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "1463b8b71043d2fbea474c7ffadfea4364588c51",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "シューマン/女の愛と生涯 op. 42《輸入声楽楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2008",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "7be0b7c88e6942c8b3dd0d83c8f8d43442f9d3a6",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ドニゼッティ/アルバ公爵《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2007",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "4d17aa3dcc05d724f371ea32dbf3175417e12f25",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "メンデルスゾーン/真夏の夜の夢 op. 61《輸入合唱楽譜》",
-      "url": "https://www.gakufu.co.jp/products/voc2006",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "45374e33a94d9f18c4356eaeb3929fb661bc468a",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ギルバート&サリヴァン/ユートピア株式会社《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2004",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "f249824b65e2a3d4dd3c5eda01976416e1581e17",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "ギルバート&サリヴァン/プリンセス・アイダ《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2005",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "e226db9c1bcc83097407bdf9cbb7437bb39a6567",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "134曲のドイツの伝承・子供の歌(民謡)曲集(スコア)《輸入声楽スコア》",
-      "url": "https://www.gakufu.co.jp/products/voc2003",
-      "published_at": "2026-09-30T11:16:47+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "4ef96e5da44a18d6656d8bdc6744ace87ee18266",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "「踊る大捜査線」メドレー フレックス楽譜《10月16日発売》",
-      "url": "https://www.gakufu.co.jp/products/flex294",
-      "published_at": "2026-09-30T11:16:52+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "cac500abb46cd33b67a9caa395adc417ca9887b3",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "風と町/Mrs. GREEN APPLE フレックス楽譜",
-      "url": "https://www.gakufu.co.jp/products/flex290",
-      "published_at": "2026-09-30T11:16:53+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "713095a5fc2ed6e1707cca82f2b58d7564c7ac30",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "「ペガサスの国」より 第二曲「花の詩」 白いペガサス (comp.三浦真理)【マリンバ】 ソロ楽譜《10月9日発売》",
-      "url": "https://www.gakufu.co.jp/products/sol142",
-      "published_at": "2026-09-30T11:16:56+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "7aa0bc4f6fe810909f09ac0e885c08c48473cfa7",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "Bright tone(Akane)【エス・クラリネット】(ピアノ伴奏譜&カラオケCD付) ソロ楽譜(10月16日発売)",
-      "url": "https://www.gakufu.co.jp/products/sol144",
-      "published_at": "2026-09-30T11:16:56+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "c95f7bc26477b89993d340f0a18d6c1ac55b3966",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "アントニオ・ヴィヴァルディ/ヴァイオリン協奏曲集「ラ・ストラヴァガンツァ」作品4の第1番 変ロ長調(Cello/Contrabassパート譜)《輸入オーケストラパート譜》",
-      "url": "https://www.gakufu.co.jp/products/pts5",
-      "published_at": "2026-09-30T11:17:05+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "c4d20e8a28cec664488c7516999311b3cb62b0a9",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "アントニオ・ヴィヴァルディ/ヴァイオリン協奏曲集「ラ・ストラヴァガンツァ」作品4の第1番 変ロ長調(Violin 2パート譜)《輸入オーケストラパート譜》",
-      "url": "https://www.gakufu.co.jp/products/pts2",
-      "published_at": "2026-09-30T11:17:05+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "e7bcd1f226bf03345282bcadeea83a2e1cc29811",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "アントニオ・ヴィヴァルディ/ヴァイオリン協奏曲「ラ・ストラヴァガンツァ」作品4の第1番 変ロ長調(Violin 1パート譜)《輸入オーケストラパート譜》",
-      "url": "https://www.gakufu.co.jp/products/pts1",
-      "published_at": "2026-09-30T11:17:05+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "5a0428b7fddd429d22b0ce6260da4d32c5398b1a",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "アントニオ・ヴィヴァルディ/ヴァイオリン協奏曲集「ラ・ストラヴァガンツァ」作品4の第1番 変ロ長調(Violin Soloパート譜)《輸入オーケストラパート譜》",
-      "url": "https://www.gakufu.co.jp/products/pts3",
-      "published_at": "2026-09-30T11:17:05+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "36780da626fb77d8cf989644f04514028ee96a4c",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "アントニオ・ヴィヴァルディ/ヴァイオリン協奏曲集「ラ・ストラヴァガンツァ」作品4の第1番 変ロ長調(Violaパート譜)《輸入オーケストラパート譜》",
-      "url": "https://www.gakufu.co.jp/products/pts4",
-      "published_at": "2026-09-30T11:17:06+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "f098a1a990509844bdc7f638a0c81db20f8596df",
-      "publisher": "ROCKET MUSIC (ロケットミュージック)",
-      "publisher_id": "rocket-music",
-      "title": "Rhythm And Police(「踊る大捜査線」メインテーマ) フレックス楽譜《10月30日発売》",
-      "url": "https://www.gakufu.co.jp/products/flex293",
-      "published_at": "2026-10-02T15:52:19+09:00",
-      "first_seen": "2026-10-06T16:20:19.455583+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "750e1d040f3680dc7d77c7994927fd409f3705aa",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔Grade 2(小編成)〕",
-      "url": "https://winds-score.com/products/sbj-00115",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "3ef8cd052aa4b39fc692fbb4f401c80474f47625",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "三日月の舞〔Grade 3.5〕",
-      "url": "https://winds-score.com/products/wsl-00294",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "66113cba8e27beb0c752da0a0c57f920accd3d2f",
-      "publisher": "Winds Score (ウィンズスコア)",
-      "publisher_id": "winds-score",
-      "title": "夜の踊り子〔Grade 3〕(吹奏楽J-POP甲子園)",
-      "url": "https://winds-score.com/products/jpk-2605",
-      "published_at": "2026-09-11T00:00:00+09:00",
-      "first_seen": "2026-10-06T16:20:18.560172+00:00",
-      "method": "feed"
     }
   ],
   "health": [
@@ -10010,7 +10010,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-19T02:54:53.287302+00:00",
+      "last_ok": "2026-11-20T02:48:08.118070+00:00",
       "note": ""
     },
     {
@@ -10019,7 +10019,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-19T02:54:43.398142+00:00",
+      "last_ok": "2026-11-20T02:47:53.711139+00:00",
       "note": ""
     },
     {
@@ -10028,7 +10028,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:24.903558+00:00",
+      "last_ok": "2026-11-20T02:47:31.956244+00:00",
       "note": ""
     },
     {
@@ -10037,7 +10037,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:25.708358+00:00",
+      "last_ok": "2026-11-20T02:47:32.865320+00:00",
       "note": ""
     },
     {
@@ -10053,9 +10053,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 12,
+      "consecutive_empty": 13,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:55:08.871668+00:00",
+      "last_ok": "2026-11-20T02:48:24.449074+00:00",
       "note": "変化なし"
     },
     {
@@ -10064,7 +10064,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-19T02:54:22.473575+00:00",
+      "last_ok": "2026-11-20T02:47:29.479817+00:00",
       "note": ""
     },
     {
@@ -10073,7 +10073,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-19T02:54:37.921005+00:00",
+      "last_ok": "2026-11-20T02:47:47.723960+00:00",
       "note": ""
     },
     {
@@ -10082,7 +10082,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:30.436943+00:00",
+      "last_ok": "2026-11-20T02:47:37.564897+00:00",
       "note": ""
     },
     {
@@ -10091,7 +10091,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-19T02:54:21.514180+00:00",
+      "last_ok": "2026-11-20T02:47:28.547471+00:00",
       "note": ""
     },
     {
@@ -10100,7 +10100,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-19T02:54:39.953523+00:00",
+      "last_ok": "2026-11-20T02:47:49.544874+00:00",
       "note": ""
     },
     {
@@ -10109,7 +10109,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 22,
-      "last_ok": "2026-11-19T02:54:45.817622+00:00",
+      "last_ok": "2026-11-20T02:47:57.300933+00:00",
       "note": ""
     },
     {
@@ -10118,7 +10118,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-11-19T02:54:42.230346+00:00",
+      "last_ok": "2026-11-20T02:47:51.837807+00:00",
       "note": ""
     },
     {
@@ -10134,9 +10134,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 45,
+      "consecutive_empty": 46,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:55:11.834968+00:00",
+      "last_ok": "2026-11-20T02:48:27.342123+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10144,8 +10144,8 @@
       "publisher": "オクタヴィア・レコード",
       "last_error": null,
       "consecutive_empty": 0,
-      "last_item_count": 44,
-      "last_ok": "2026-11-19T02:54:54.561904+00:00",
+      "last_item_count": 45,
+      "last_ok": "2026-11-20T02:48:09.666715+00:00",
       "note": ""
     },
     {
@@ -10154,7 +10154,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-19T02:54:48.487170+00:00",
+      "last_ok": "2026-11-20T02:48:01.053012+00:00",
       "note": ""
     },
     {
@@ -10163,7 +10163,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-19T02:55:02.677164+00:00",
+      "last_ok": "2026-11-20T02:48:18.726267+00:00",
       "note": ""
     },
     {
@@ -10181,25 +10181,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-19T02:54:31.623931+00:00",
+      "last_ok": "2026-11-20T02:47:38.679079+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 46,
+      "consecutive_empty": 47,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:55:02.182870+00:00",
+      "last_ok": "2026-11-20T02:48:18.167401+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 45,
+      "consecutive_empty": 46,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:54:34.259565+00:00",
+      "last_ok": "2026-11-20T02:47:42.319406+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -10208,16 +10208,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-19T02:55:08.162625+00:00",
+      "last_ok": "2026-11-20T02:48:23.512929+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 46,
+      "consecutive_empty": 47,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:55:06.362272+00:00",
+      "last_ok": "2026-11-20T02:48:21.241043+00:00",
       "note": "変化なし"
     },
     {
@@ -10226,7 +10226,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-19T02:55:01.356826+00:00",
+      "last_ok": "2026-11-20T02:48:17.211710+00:00",
       "note": ""
     },
     {
@@ -10235,7 +10235,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-19T02:55:00.336110+00:00",
+      "last_ok": "2026-11-20T02:48:16.260991+00:00",
       "note": ""
     },
     {
@@ -10244,7 +10244,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:27.256855+00:00",
+      "last_ok": "2026-11-20T02:47:33.886402+00:00",
       "note": ""
     },
     {
@@ -10253,7 +10253,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:28.130866+00:00",
+      "last_ok": "2026-11-20T02:47:34.871268+00:00",
       "note": ""
     },
     {
@@ -10262,7 +10262,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-19T02:54:23.575640+00:00",
+      "last_ok": "2026-11-20T02:47:30.910018+00:00",
       "note": ""
     },
     {
@@ -10270,17 +10270,17 @@
       "publisher": "全音楽譜出版社",
       "last_error": null,
       "consecutive_empty": 0,
-      "last_item_count": 16,
-      "last_ok": "2026-11-19T02:54:50.108099+00:00",
+      "last_item_count": 29,
+      "last_ok": "2026-11-20T02:48:04.852200+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 46,
+      "consecutive_empty": 47,
       "last_item_count": 0,
-      "last_ok": "2026-11-19T02:54:52.030980+00:00",
+      "last_ok": "2026-11-20T02:48:06.917451+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10289,7 +10289,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-19T02:54:36.044519+00:00",
+      "last_ok": "2026-11-20T02:47:44.310454+00:00",
       "note": ""
     },
     {
@@ -10298,14 +10298,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-19T02:54:47.126158+00:00",
+      "last_ok": "2026-11-20T02:47:58.514327+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-19T02:55:11.836815+00:00",
+    "finished_at": "2026-11-20T02:48:27.343092+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 24
+    "new_count": 32
   }
 }
