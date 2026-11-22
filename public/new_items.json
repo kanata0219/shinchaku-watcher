@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-21T02:57:42.886457+00:00",
-  "total": 1053,
+  "generated_at": "2026-11-22T01:52:37.138884+00:00",
+  "total": 1061,
   "items": [
+    {
+      "key": "8616ac6c84a748d4125cb36fb31dc3e08fee928b",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 怒り / 作曲:ステイシー・ギャロップ (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573826",
+      "published_at": "2026-11-21T16:23:08+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "e8ac94f6ac194982000ce2a59852493f8ee7739d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 7つのチャクラ / 作曲:ダニエル・ドルフ (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573827",
+      "published_at": "2026-11-21T16:23:09+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "11e52ec4c735d99162b515803744c4c1c4cd5a0a",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ホビントゥード / 作曲:フェレール・フェラン (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573828",
+      "published_at": "2026-11-21T16:23:09+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0a4268f45129236909606a1bf34600961305645e",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) シャン・プルミエ 作品103 / 作曲:マルセル・ミハロヴィチ (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573829",
+      "published_at": "2026-11-21T16:23:10+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "d45dc9f045868180d3a228eb08c6b627ece8c490",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ソプラノ・サクソフォーン・ソナタ / 作曲:リチャード・R・ベネット (Bb サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573830",
+      "published_at": "2026-11-21T16:23:10+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3aaad58d728f2624d1eaa0ca188187ec67165525",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) スタン・ゲッツのための協奏曲 / 作曲:リチャード・R・ベネット (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573831",
+      "published_at": "2026-11-21T16:23:11+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "aff756f32eaf993196b245ffc774406f283b4b14",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ディヴァージョンズ / 作曲:モートン・グールド (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573832",
+      "published_at": "2026-11-21T16:23:11+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "41fa5f192c29e841007a3b6baa5d00558cbd5ed1",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) バレエの印象 / 作曲:リロイ・オストランスキー (テナー・サクソフォーン&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194573833",
+      "published_at": "2026-11-21T16:23:11+09:00",
+      "first_seen": "2026-11-22T01:51:32.824529+00:00",
+      "method": "feed"
+    },
     {
       "key": "b6e611e757e29cdd5f425c42d84bb57df4fdda0a",
       "publisher": "音楽之友社",
@@ -9921,86 +10001,6 @@
       "published_at": "2025-03-04T14:49:49+09:00",
       "first_seen": "2026-10-06T16:20:20.666941+00:00",
       "method": "feed"
-    },
-    {
-      "key": "9a1f44d06fcd3d2c8d39b61d220b2d0d9993022f",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "羊は安らかに草を食み(J.S.バッハ)/クラリネット四重奏",
-      "url": "https://m8w-music.com/?pid=185167731",
-      "published_at": "2025-03-04T14:54:44+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "eddd3dfdcbd58c259729bb663776d175c1b94588",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "羊は安らかに草を食み(J.S.バッハ)/木管四重奏(Fl×2、Cl×2)",
-      "url": "https://m8w-music.com/?pid=185167816",
-      "published_at": "2025-03-04T15:01:23+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "1239a51495b05c4dac319e71f2edabca3a19bfe5",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "羊は安らかに草を食み(J.S.バッハ)/サキソフォン四重奏",
-      "url": "https://m8w-music.com/?pid=185168104",
-      "published_at": "2025-03-04T15:05:56+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "13779c2be973d28ae9f746c61348363984823d97",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "ペール・ギュント第2組曲より「ソルヴェイグの歌」(移調版)/SangPeer Gynt No.2 4.Solveigs Sang",
-      "url": "https://m8w-music.com/?pid=186866572",
-      "published_at": "2025-05-29T17:04:31+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "42afecd7da7252ae8a3df960b3cf7fee97cb6bd9",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "ベルガマスク組曲より「前奏曲」(C.A.ドビュッシー)/Prelude extrait de la “Suite Bergamasque”",
-      "url": "https://m8w-music.com/?pid=187422768",
-      "published_at": "2025-07-02T14:30:58+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "ac5f128fd07b721e86d99a0b2cdda6ceb8b7bb7f",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "交響曲第8番ハ短調(ハース版)より第4楽章・フィナーレ/A.ブルックナー",
-      "url": "https://m8w-music.com/?pid=188022425",
-      "published_at": "2025-08-18T10:12:57+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "42b29c1d45b0ff0100bafb48fb34e9a854bd10cc",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "赤とんぼ(童謡)/弦楽四重奏",
-      "url": "https://m8w-music.com/?pid=188475069",
-      "published_at": "2025-09-12T10:36:18+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "0bad07cebe249d719aeaec88832ca57c99ab6d61",
-      "publisher": "メディエイトワークス",
-      "publisher_id": "mediate-works",
-      "title": "小組曲より「小舟にて」、「メヌエット」(C.ドビュッシー)/木管5重奏",
-      "url": "https://m8w-music.com/?pid=192176715",
-      "published_at": "2026-06-11T15:17:08+09:00",
-      "first_seen": "2026-10-06T16:20:20.666941+00:00",
-      "method": "feed"
     }
   ],
   "health": [
@@ -10010,7 +10010,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-21T02:57:25.756848+00:00",
+      "last_ok": "2026-11-22T01:52:05.641963+00:00",
       "note": ""
     },
     {
@@ -10019,7 +10019,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-21T02:57:15.783241+00:00",
+      "last_ok": "2026-11-22T01:51:54.315322+00:00",
       "note": ""
     },
     {
@@ -10028,7 +10028,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:56:55.704281+00:00",
+      "last_ok": "2026-11-22T01:51:31.897846+00:00",
       "note": ""
     },
     {
@@ -10037,7 +10037,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:56:56.429820+00:00",
+      "last_ok": "2026-11-22T01:51:32.826765+00:00",
       "note": ""
     },
     {
@@ -10053,9 +10053,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 14,
+      "consecutive_empty": 15,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:40.104159+00:00",
+      "last_ok": "2026-11-22T01:52:34.242151+00:00",
       "note": "変化なし"
     },
     {
@@ -10064,7 +10064,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-21T02:56:53.314468+00:00",
+      "last_ok": "2026-11-22T01:51:29.259218+00:00",
       "note": ""
     },
     {
@@ -10073,7 +10073,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-21T02:57:09.345262+00:00",
+      "last_ok": "2026-11-22T01:51:47.079775+00:00",
       "note": ""
     },
     {
@@ -10082,7 +10082,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:57:00.217655+00:00",
+      "last_ok": "2026-11-22T01:51:37.175746+00:00",
       "note": ""
     },
     {
@@ -10091,7 +10091,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-21T02:56:52.076539+00:00",
+      "last_ok": "2026-11-22T01:51:28.314498+00:00",
       "note": ""
     },
     {
@@ -10100,7 +10100,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-21T02:57:12.529055+00:00",
+      "last_ok": "2026-11-22T01:51:49.916237+00:00",
       "note": ""
     },
     {
@@ -10109,7 +10109,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 22,
-      "last_ok": "2026-11-21T02:57:18.089742+00:00",
+      "last_ok": "2026-11-22T01:51:56.669460+00:00",
       "note": ""
     },
     {
@@ -10118,7 +10118,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-11-21T02:57:14.655336+00:00",
+      "last_ok": "2026-11-22T01:51:52.706544+00:00",
       "note": ""
     },
     {
@@ -10134,9 +10134,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 47,
+      "consecutive_empty": 48,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:42.879559+00:00",
+      "last_ok": "2026-11-22T01:52:37.132469+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10145,7 +10145,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 45,
-      "last_ok": "2026-11-21T02:57:27.187475+00:00",
+      "last_ok": "2026-11-22T01:52:06.889813+00:00",
       "note": ""
     },
     {
@@ -10154,7 +10154,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-21T02:57:20.682708+00:00",
+      "last_ok": "2026-11-22T01:51:59.317102+00:00",
       "note": ""
     },
     {
@@ -10163,7 +10163,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-21T02:57:34.650579+00:00",
+      "last_ok": "2026-11-22T01:52:27.715417+00:00",
       "note": ""
     },
     {
@@ -10181,25 +10181,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-21T02:57:01.122507+00:00",
+      "last_ok": "2026-11-22T01:51:38.352843+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 48,
+      "consecutive_empty": 49,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:34.096262+00:00",
+      "last_ok": "2026-11-22T01:52:27.224049+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 47,
+      "consecutive_empty": 48,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:04.504636+00:00",
+      "last_ok": "2026-11-22T01:51:42.017762+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -10208,16 +10208,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-21T02:57:38.917802+00:00",
+      "last_ok": "2026-11-22T01:52:33.255448+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 48,
+      "consecutive_empty": 49,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:37.302989+00:00",
+      "last_ok": "2026-11-22T01:52:31.068203+00:00",
       "note": "変化なし"
     },
     {
@@ -10226,7 +10226,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-21T02:57:33.399379+00:00",
+      "last_ok": "2026-11-22T01:52:25.959029+00:00",
       "note": ""
     },
     {
@@ -10235,7 +10235,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-21T02:57:32.257462+00:00",
+      "last_ok": "2026-11-22T01:52:24.926524+00:00",
       "note": ""
     },
     {
@@ -10244,7 +10244,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:56:57.592889+00:00",
+      "last_ok": "2026-11-22T01:51:34.102506+00:00",
       "note": ""
     },
     {
@@ -10253,7 +10253,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:56:58.419825+00:00",
+      "last_ok": "2026-11-22T01:51:35.150062+00:00",
       "note": ""
     },
     {
@@ -10262,7 +10262,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-21T02:56:54.579028+00:00",
+      "last_ok": "2026-11-22T01:51:30.520352+00:00",
       "note": ""
     },
     {
@@ -10271,16 +10271,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 29,
-      "last_ok": "2026-11-21T02:57:22.254699+00:00",
+      "last_ok": "2026-11-22T01:52:01.619495+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 48,
+      "consecutive_empty": 49,
       "last_item_count": 0,
-      "last_ok": "2026-11-21T02:57:24.632512+00:00",
+      "last_ok": "2026-11-22T01:52:04.239004+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10289,7 +10289,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-21T02:57:06.163879+00:00",
+      "last_ok": "2026-11-22T01:51:43.827088+00:00",
       "note": ""
     },
     {
@@ -10298,14 +10298,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-21T02:57:19.079839+00:00",
+      "last_ok": "2026-11-22T01:51:57.824932+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-21T02:57:42.880941+00:00",
+    "finished_at": "2026-11-22T01:52:37.133453+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 1
+    "new_count": 8
   }
 }
