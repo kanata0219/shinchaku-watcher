@@ -1,7 +1,237 @@
 {
-  "generated_at": "2026-11-24T05:43:27.463063+00:00",
-  "total": 1080,
+  "generated_at": "2026-11-25T04:45:06.480292+00:00",
+  "total": 1103,
   "items": [
+    {
+      "key": "54f5ecc0bc6af6433175df71e2f6353eff7faa7d",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "正解",
+      "url": "https://www.music8.com/products/detail213885.php",
+      "published_at": "",
+      "first_seen": "2026-11-25T04:44:13.374016+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "9d3ff820d5f08255db2394c758f3eab9e0a01bb2",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "正解",
+      "url": "https://www.music8.com/products/detail213884.php",
+      "published_at": "",
+      "first_seen": "2026-11-25T04:44:13.374016+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "981670d31b616724d947c06fca85cb8d239086b0",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "咲き誇れ",
+      "url": "https://www.music8.com/products/detail213887.php",
+      "published_at": "",
+      "first_seen": "2026-11-25T04:44:13.374016+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "b46754b979e5dde0ac4de8e4a767f9684edc076e",
+      "publisher": "music8 (ミュージックエイト)",
+      "publisher_id": "music8",
+      "title": "咲き誇れ",
+      "url": "https://www.music8.com/products/detail213886.php",
+      "published_at": "",
+      "first_seen": "2026-11-25T04:44:13.374016+00:00",
+      "method": "listing"
+    },
+    {
+      "key": "509e9985d494d8a4877434925736be372f2153e0",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-ダンス第1番 / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(フルセット)",
+      "url": "https://goldenheartspublications.com/?pid=194735278",
+      "published_at": "2026-11-24T17:19:37+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "391417eaccb36717a6843ad1ff5f62fb8fa8db8d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-ワルツ第2番 / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735280",
+      "published_at": "2026-11-24T17:19:37+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "3887538e4775e6c47760bd63e9873cf4a9baef22",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-ワルツ第2番 / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(フルセット)",
+      "url": "https://goldenheartspublications.com/?pid=194735281",
+      "published_at": "2026-11-24T17:19:37+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "611a6e3f96a9b81ccb957509127762d916473854",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-ダンス第2番 / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735283",
+      "published_at": "2026-11-24T17:19:38+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "c47f8f1d8da0f95fd7aa7797a664a81d1e74aef1",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-ダンス第2番 / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(フルセット)",
+      "url": "https://goldenheartspublications.com/?pid=194735284",
+      "published_at": "2026-11-24T17:19:38+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "e27c97815478e6f0e971496d89804c5a614c599d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-フィナーレ / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735286",
+      "published_at": "2026-11-24T17:19:39+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "fb39ff1957137fa0921648a96216f281bda8d4b6",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ジャズ組曲第2番-フィナーレ / 作曲:ショスタコーヴィチ 編曲:デメイ (吹奏楽)(フルセット)",
+      "url": "https://goldenheartspublications.com/?pid=194735287",
+      "published_at": "2026-11-24T17:19:39+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "a0bddbe7197980699de790132524d7c2dc668d56",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 亡き王女のためのパヴァーヌ / 作曲:ラヴェル 編曲:デメイ (トロンボーン&吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735289",
+      "published_at": "2026-11-24T17:19:40+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "c4f8da03bc41324cbb7c712411c4a1a9f64f2491",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 亡き王女のためのパヴァーヌ / 作曲:ラヴェル 編曲:デメイ (トロンボーン&吹奏楽)(フルセット)",
+      "url": "https://goldenheartspublications.com/?pid=194735290",
+      "published_at": "2026-11-24T17:19:40+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "51640ec73346633e63c0e7211d75293cb181c284",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ハンティング・タワー / 作曲:レスピーギ 編曲:チェザリーニ (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735291",
+      "published_at": "2026-11-24T17:19:41+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "269bf9b823919154c36e05b59009548bdc9aab31",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) ハンティング・タワー / 作曲:レスピーギ 編曲:チェザリーニ (吹奏楽)(スコア+パート譜セット)",
+      "url": "https://goldenheartspublications.com/?pid=194735292",
+      "published_at": "2026-11-24T17:19:41+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "214722b3dad025c7f6ccbce562d0bb825821792d",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 歌劇「黄色の王女」序曲 作品30 / 作曲:サン=サーンス 編曲:シンス (吹奏楽)(スコアのみ)",
+      "url": "https://goldenheartspublications.com/?pid=194735293",
+      "published_at": "2026-11-24T17:19:41+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "a8d4431f1a56cb058f0ae65334c40dfc08acd6f3",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 歌劇「黄色の王女」序曲 作品30 / 作曲:サン=サーンス 編曲:シンス (吹奏楽)(スコア+パート譜)",
+      "url": "https://goldenheartspublications.com/?pid=194735294",
+      "published_at": "2026-11-24T17:19:42+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "0171992180edbb6a5897c800d083b207b5ae9fa3",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) アリア 作品48の1 / 作曲:エルンスト・フォン・ドホナーニ (フルート&ピアノ)",
+      "url": "https://goldenheartspublications.com/?pid=194735295",
+      "published_at": "2026-11-24T17:19:42+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "454d848477b5332a98c3fd5cf4113409ddfb7eae",
+      "publisher": "Golden Hearts Publications",
+      "publisher_id": "golden-hearts",
+      "title": "(楽譜) 六重奏曲 ハ長調 作品37 / 作曲:エルンスト・フォン・ドホナーニ (管、弦、ピアノ6重奏)",
+      "url": "https://goldenheartspublications.com/?pid=194735296",
+      "published_at": "2026-11-24T17:19:42+09:00",
+      "first_seen": "2026-11-25T04:43:58.957943+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "6038ecdb1d4ade56ef542cc00aedb2e533b2a057",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "シンフォニック・セレブレーション(シェルドン) 吹奏楽譜",
+      "url": "https://www.gakufu.co.jp/products/un1729",
+      "published_at": "2026-11-24T15:44:45+09:00",
+      "first_seen": "2026-11-25T04:43:56.484518+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "2d1f1a396f90e601c475f2c9c803ee7c8626b453",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "シンフォニック・セレブレーション(シェルドン)(スコアのみ) 吹奏楽譜",
+      "url": "https://www.gakufu.co.jp/products/wsc9430",
+      "published_at": "2026-11-24T15:44:45+09:00",
+      "first_seen": "2026-11-25T04:43:56.484518+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "86f76885cc1730448cfbeb9bfb95b07dcb13ebf0",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "フォー・フォースマン(4人の馬乗り)(グェンツェル)【トランペット四重奏】《輸入金管アンサンブル》",
+      "url": "https://www.gakufu.co.jp/products/ab329",
+      "published_at": "2026-11-24T17:19:29+09:00",
+      "first_seen": "2026-11-25T04:43:56.484518+00:00",
+      "method": "feed"
+    },
+    {
+      "key": "de492e95958cf149aaee7b4fe65428addaa53006",
+      "publisher": "ROCKET MUSIC (ロケットミュージック)",
+      "publisher_id": "rocket-music",
+      "title": "ジョン・ウィリアムズ/「E.T.」交響組曲【ジョン・ウィリアムズ・オリジナル版】《輸入オーケストラスコア》",
+      "url": "https://www.gakufu.co.jp/products/sco1420",
+      "published_at": "2026-11-25T11:51:25+09:00",
+      "first_seen": "2026-11-25T04:43:56.484518+00:00",
+      "method": "feed"
+    },
     {
       "key": "f5004ea8028a53bc5e7613e925b1640cf23b3b0e",
       "publisher": "カワイ出版",
@@ -9771,236 +10001,6 @@
       "published_at": "2026-07-17T11:31:28+09:00",
       "first_seen": "2026-10-06T16:20:24.393211+00:00",
       "method": "feed"
-    },
-    {
-      "key": "d832dbd2ba85dab61b6df8507155630568e97e31",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "[for customer orders only]Rental for 1year/Symphonic poem \"Tamakusu tree\"/@Marco様 ご注文専用",
-      "url": "https://maestro-muse.com/?pid=192908845",
-      "published_at": "2026-08-03T11:59:30+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "40d6f5a47f3bbecbd07bbf6735d8e09dfbbf38fb",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "[金管4重奏]太陽の踊り、月の子守歌〜金管四重奏のための〜/Dance of the Sun, Lullaby of the Moon/富士原裕章(Hiroaki Fujiwara)",
-      "url": "https://maestro-muse.com/?pid=193043100",
-      "published_at": "2026-08-12T15:24:12+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "18e0011a3228c64acb2a5e5409b3b0016f409713",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "【DL】[金管4重奏]太陽の踊り、月の子守歌〜金管四重奏のための〜/Dance of the Sun, Lullaby of the Moon/富士原裕章(Hiroaki Fujiwara)",
-      "url": "https://maestro-muse.com/?pid=193043103",
-      "published_at": "2026-08-12T15:24:22+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "56994c4fc832010acefde9ab65d32afa40c9e8d2",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "[金管4重奏]LUNATISM - 月夜彷徨/Linatism for Brass Quartet/石原勇太郎(Yutaro Ishihara)",
-      "url": "https://maestro-muse.com/?pid=193099812",
-      "published_at": "2026-08-15T09:43:45+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "963d7280d7bc667326e0d55bcb6934978963ec49",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "【DL】[金管4重奏]LUNATISM - 月夜彷徨/Linatism for Brass Quartet/石原勇太郎(Yutaro Ishihara)",
-      "url": "https://maestro-muse.com/?pid=193100416",
-      "published_at": "2026-08-15T11:44:01+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "e9a368f77e34784bcfb9b7cd202fed54070cf1d9",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "[電子オルガン演奏用編曲許諾] 交響詩「天地創造」 “The Creation”〜Symphonic poem〜/ 阿部勇一(Yuichi Abe)",
-      "url": "https://maestro-muse.com/?pid=193452403",
-      "published_at": "2026-09-09T15:57:54+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "4654e7d467bc924bdf8f8ee0ad12a293ad598b02",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "[クラリネット8重奏(4重奏可能)] ラデツキー行進曲/Radetzky Marsch/ヨハン・シュトラウス/ 田丸和弥 (Kazuya Tamaru)",
-      "url": "https://maestro-muse.com/?pid=193550204",
-      "published_at": "2026-09-16T16:02:34+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "ac3ceba47a45e9b70bcab6353c240bd6b9d65218",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "【DL】[クラリネット8重奏(4重奏可能)] ラデツキー行進曲/Radetzky Marsch/ヨハン・シュトラウス/ 田丸和弥 (Kazuya Tamaru)",
-      "url": "https://maestro-muse.com/?pid=193569165",
-      "published_at": "2026-09-17T13:24:43+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "fa62272b5c3b33be492f1f1dea4b92f47e437cab",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "【吹奏楽】ノスタルジック・ラプソディ/Nostalgic Rhapsody For Wind Orchestra(藤掛廣幸/Hiro Fujikake)",
-      "url": "https://maestro-muse.com/?pid=193757383",
-      "published_at": "2026-10-01T12:26:05+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "0dd14a38768c8c1ffece4dd9ad5c87e83a0f993a",
-      "publisher": "マエストロ (Maestro)",
-      "publisher_id": "maestro",
-      "title": "【DL】[リコーダー4重奏]いのちの輝き Ars Vivendi(1. Memento Mori / 2. Carpe Diem)/パブロ・エスカンデ(Pablo Escande)",
-      "url": "https://maestro-muse.com/?pid=193803449",
-      "published_at": "2026-10-03T15:51:23+09:00",
-      "first_seen": "2026-10-06T16:20:24.393211+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "7e64b0fdd41ea85379cdcb7cf011c82c07c41f27",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>冬の深まりの中で <br>作曲:ニコル・パイウノ",
-      "url": "https://goldenheartspublications.com/?pid=193814101",
-      "published_at": "2026-10-04T15:11:29+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "29e94c921d7eb8ebeed75e7c383b825f82e39039",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>内なる太陽 <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814102",
-      "published_at": "2026-10-04T15:11:30+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "319bc9745689a6dec75d920fb84c5aa621fe72fc",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>内なる太陽 <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814103",
-      "published_at": "2026-10-04T15:11:31+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "976dd0618ee7591186b2bfe3aeb97fcbc55aa6c1",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>残り火 <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814104",
-      "published_at": "2026-10-04T15:11:31+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "4f90aa78a44443af205f0f5a9eab37704c2d2349",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>残り火 <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814105",
-      "published_at": "2026-10-04T15:11:32+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "89e4e59edb236b98fbc6f2dd200f0e84b5028b19",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>ウェイファインダー <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814106",
-      "published_at": "2026-10-04T15:11:33+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "536923f8d9d3b1d0ba7efd4aeb2275665614bfe4",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>ウェイファインダー <br>作曲:カタジ・コプリー",
-      "url": "https://goldenheartspublications.com/?pid=193814107",
-      "published_at": "2026-10-04T15:11:34+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "daada5af05d3042539eda7eb40571db77a2a3eb7",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>アンレスト <br>作曲:マイケル・シーウェル",
-      "url": "https://goldenheartspublications.com/?pid=193814108",
-      "published_at": "2026-10-04T15:11:35+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "65aae644cd6a95c5e2faf0fb1262100fa829c9fd",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>アンレスト <br>作曲:マイケル・シーウェル",
-      "url": "https://goldenheartspublications.com/?pid=193814109",
-      "published_at": "2026-10-04T15:11:35+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "2bb0d024bb9c3346a129fbf08ca8f5b567a4f520",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>見えない翼 <br>作曲:ジェイムズ・M・デヴィッド",
-      "url": "https://goldenheartspublications.com/?pid=193814110",
-      "published_at": "2026-10-04T15:11:36+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "fe896a53e995642e10252791aaffa19c4a65bd4b",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>見えない翼 <br>作曲:ジェイムズ・M・デヴィッド",
-      "url": "https://goldenheartspublications.com/?pid=193814111",
-      "published_at": "2026-10-04T15:11:37+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "f89c103482ff1e1ce4f9ba22d46851128f019492",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコアのみ】<br>オーヴァーウェルミング・ジョイ <br>作曲:マーク・スロヴチャック",
-      "url": "https://goldenheartspublications.com/?pid=193814112",
-      "published_at": "2026-10-04T15:11:38+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
-    },
-    {
-      "key": "a8f1f85259f4b2f365697e80f02f69cd1d1fd3e5",
-      "publisher": "Golden Hearts Publications",
-      "publisher_id": "golden-hearts",
-      "title": "【吹奏楽 楽譜 スコア+パート譜】<br>オーヴァーウェルミング・ジョイ <br>作曲:マーク・スロヴチャック",
-      "url": "https://goldenheartspublications.com/?pid=193814113",
-      "published_at": "2026-10-04T15:11:38+09:00",
-      "first_seen": "2026-10-06T16:20:22.957236+00:00",
-      "method": "feed"
     }
   ],
   "health": [
@@ -10010,7 +10010,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 43,
-      "last_ok": "2026-11-24T05:43:09.049237+00:00",
+      "last_ok": "2026-11-25T04:44:22.311760+00:00",
       "note": ""
     },
     {
@@ -10019,7 +10019,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 24,
-      "last_ok": "2026-11-24T05:42:58.168518+00:00",
+      "last_ok": "2026-11-25T04:44:14.326102+00:00",
       "note": ""
     },
     {
@@ -10028,7 +10028,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:37.071452+00:00",
+      "last_ok": "2026-11-25T04:43:58.189823+00:00",
       "note": ""
     },
     {
@@ -10037,7 +10037,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:38.182454+00:00",
+      "last_ok": "2026-11-25T04:43:58.960399+00:00",
       "note": ""
     },
     {
@@ -10053,9 +10053,9 @@
       "publisher_id": "naito",
       "publisher": "Naito Music",
       "last_error": null,
-      "consecutive_empty": 17,
+      "consecutive_empty": 18,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:43:24.746843+00:00",
+      "last_ok": "2026-11-25T04:45:02.085325+00:00",
       "note": "変化なし"
     },
     {
@@ -10064,7 +10064,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-24T05:42:34.262784+00:00",
+      "last_ok": "2026-11-25T04:43:56.486907+00:00",
       "note": ""
     },
     {
@@ -10073,7 +10073,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-24T05:42:52.161876+00:00",
+      "last_ok": "2026-11-25T04:44:09.579048+00:00",
       "note": ""
     },
     {
@@ -10082,7 +10082,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:42.441626+00:00",
+      "last_ok": "2026-11-25T04:44:02.020088+00:00",
       "note": ""
     },
     {
@@ -10091,7 +10091,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 25,
-      "last_ok": "2026-11-24T05:42:33.460336+00:00",
+      "last_ok": "2026-11-25T04:43:55.668794+00:00",
       "note": ""
     },
     {
@@ -10100,7 +10100,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-24T05:42:54.383238+00:00",
+      "last_ok": "2026-11-25T04:44:11.610655+00:00",
       "note": ""
     },
     {
@@ -10109,7 +10109,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 22,
-      "last_ok": "2026-11-24T05:43:00.449404+00:00",
+      "last_ok": "2026-11-25T04:44:16.304488+00:00",
       "note": ""
     },
     {
@@ -10118,7 +10118,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 20,
-      "last_ok": "2026-11-24T05:42:56.798957+00:00",
+      "last_ok": "2026-11-25T04:44:13.376586+00:00",
       "note": ""
     },
     {
@@ -10134,9 +10134,9 @@
       "publisher_id": "atelier-m",
       "publisher": "アトリエ・エム",
       "last_error": null,
-      "consecutive_empty": 50,
+      "consecutive_empty": 51,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:43:27.456509+00:00",
+      "last_ok": "2026-11-25T04:45:06.471482+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10145,7 +10145,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 45,
-      "last_ok": "2026-11-24T05:43:10.217788+00:00",
+      "last_ok": "2026-11-25T04:44:23.292431+00:00",
       "note": ""
     },
     {
@@ -10154,7 +10154,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-24T05:43:03.730392+00:00",
+      "last_ok": "2026-11-25T04:44:18.587840+00:00",
       "note": ""
     },
     {
@@ -10163,7 +10163,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-24T05:43:18.399518+00:00",
+      "last_ok": "2026-11-25T04:44:43.447241+00:00",
       "note": ""
     },
     {
@@ -10181,25 +10181,25 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-24T05:42:43.764395+00:00",
+      "last_ok": "2026-11-25T04:44:02.866068+00:00",
       "note": ""
     },
     {
       "publisher_id": "sonicarts",
       "publisher": "ソニックアーツ",
       "last_error": null,
-      "consecutive_empty": 51,
+      "consecutive_empty": 52,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:43:17.926945+00:00",
+      "last_ok": "2026-11-25T04:44:43.155065+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
       "publisher_id": "teeda",
       "publisher": "ティーダ出版",
       "last_error": null,
-      "consecutive_empty": 50,
+      "consecutive_empty": 51,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:42:46.481061+00:00",
+      "last_ok": "2026-11-25T04:44:05.328079+00:00",
       "note": "フィードにエントリが無い(壊れの可能性)"
     },
     {
@@ -10208,16 +10208,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 3,
-      "last_ok": "2026-11-24T05:43:23.746376+00:00",
+      "last_ok": "2026-11-25T04:44:47.145497+00:00",
       "note": ""
     },
     {
       "publisher_id": "doremi",
       "publisher": "ドレミ音楽出版社",
       "last_error": null,
-      "consecutive_empty": 51,
+      "consecutive_empty": 52,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:43:21.626988+00:00",
+      "last_ok": "2026-11-25T04:44:45.476868+00:00",
       "note": "変化なし"
     },
     {
@@ -10226,7 +10226,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 50,
-      "last_ok": "2026-11-24T05:43:16.983866+00:00",
+      "last_ok": "2026-11-25T04:44:42.616412+00:00",
       "note": ""
     },
     {
@@ -10235,7 +10235,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 48,
-      "last_ok": "2026-11-24T05:43:16.158707+00:00",
+      "last_ok": "2026-11-25T04:44:41.516074+00:00",
       "note": ""
     },
     {
@@ -10244,7 +10244,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:39.565629+00:00",
+      "last_ok": "2026-11-25T04:43:59.699694+00:00",
       "note": ""
     },
     {
@@ -10253,7 +10253,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:40.714685+00:00",
+      "last_ok": "2026-11-25T04:44:00.502724+00:00",
       "note": ""
     },
     {
@@ -10262,7 +10262,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 15,
-      "last_ok": "2026-11-24T05:42:35.765546+00:00",
+      "last_ok": "2026-11-25T04:43:57.423953+00:00",
       "note": ""
     },
     {
@@ -10271,16 +10271,16 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 29,
-      "last_ok": "2026-11-24T05:43:05.622716+00:00",
+      "last_ok": "2026-11-25T04:44:20.223386+00:00",
       "note": ""
     },
     {
       "publisher_id": "hustlecopy",
       "publisher": "東京ハッスルコピー",
       "last_error": null,
-      "consecutive_empty": 51,
+      "consecutive_empty": 52,
       "last_item_count": 0,
-      "last_ok": "2026-11-24T05:43:07.449466+00:00",
+      "last_ok": "2026-11-25T04:44:21.499407+00:00",
       "note": "新着を1件も抽出できない(壊れ/セレクタ要確認)"
     },
     {
@@ -10289,7 +10289,7 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 5,
-      "last_ok": "2026-11-24T05:42:48.200810+00:00",
+      "last_ok": "2026-11-25T04:44:06.632569+00:00",
       "note": ""
     },
     {
@@ -10298,14 +10298,14 @@
       "last_error": null,
       "consecutive_empty": 0,
       "last_item_count": 30,
-      "last_ok": "2026-11-24T05:43:01.831235+00:00",
+      "last_ok": "2026-11-25T04:44:17.157747+00:00",
       "note": ""
     }
   ],
   "run": {
-    "finished_at": "2026-11-24T05:43:27.457363+00:00",
+    "finished_at": "2026-11-25T04:45:06.472639+00:00",
     "sites_ok": 30,
     "sites_failed": 3,
-    "new_count": 0
+    "new_count": 23
   }
 }
